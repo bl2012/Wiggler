@@ -1,0 +1,1164 @@
+﻿Log file open, 07/19/17 11:22:32
+LogInit:Display: Running engine for game: WaterWiggler
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1730609791) SRandInit(1730609791).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.135519
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.15-CL-3450819
+LogInit: Engine Version: 4.15.3-3450819+++UE4+Release-4.15
+LogInit: Compatible Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Net CL: 3299760
+LogDevObjectVersion: Number of dev versions registered: 14
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 8
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 14
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 22
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 3
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogInit: Compiled (64-bit): May 21 2017 11:02:34
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.15
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.07.19-15.22.34:083][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.19-15.22.34:083][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.07.19-15.22.34:102][  0]LogInit: Computer: EGDWS_MA_37
+[2017.07.19-15.22.34:102][  0]LogInit: User: Camper
+[2017.07.19-15.22.34:102][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.07.19-15.22.34:102][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2017.07.19-15.22.34:102][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2017.07.19-15.22.34:102][  0]LogMemory: Platform Memory Stats for Windows
+[2017.07.19-15.22.34:102][  0]LogMemory: Process Physical Memory: 263.00 MB used, 263.00 MB peak
+[2017.07.19-15.22.34:102][  0]LogMemory: Process Virtual Memory: 262.63 MB used, 262.63 MB peak
+[2017.07.19-15.22.34:102][  0]LogMemory: Physical Memory: 2784.60 MB used,  13224.63 MB free, 16009.22 MB total
+[2017.07.19-15.22.34:102][  0]LogMemory: Virtual Memory: 630.80 MB used,  13224.63 MB free, 134217728.00 MB total
+[2017.07.19-15.22.34:569][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.07.19-15.22.35:560][  0]LogD3D11RHI: D3D11 adapters:
+[2017.07.19-15.22.36:090][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K1100M   ' (Feature Level 11_0)
+[2017.07.19-15.22.36:090][  0]LogD3D11RHI:       1992/0/8004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.07.19-15.22.36:095][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.07.19-15.22.36:095][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.07.19-15.22.36:096][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.07.19-15.22.36:096][  0]LogD3D11RHI:       0/0/8004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.07.19-15.22.36:096][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.07.19-15.22.36:099][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.07.19-15.22.36:100][  0]LogD3D11RHI:     GPU DeviceId: 0xff6 (for the marketing name, search the web for "GPU Device Id")
+[2017.07.19-15.22.36:100][  0]LogWindows: EnumDisplayDevices:
+[2017.07.19-15.22.36:100][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.07.19-15.22.36:100][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.07.19-15.22.36:100][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.07.19-15.22.36:100][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.07.19-15.22.36:100][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K1100M   
+[2017.07.19-15.22.36:100][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.07.19-15.22.36:100][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.07.19-15.22.36:100][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.07.19-15.22.36:115][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.07.19-15.22.36:281][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2017.07.19-15.22.36:281][  0]LogD3D11RHI: Async texture creation enabled
+[2017.07.19-15.22.36:302][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.07.19-15.22.36:302][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Intermediate/Shaders/WorkingDirectory/2252/).
+[2017.07.19-15.22.36:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Camper/AppData/Local/Temp/UnrealShaderWorkingDir/D35179E945F75A3806119EA6365B3227/'.
+[2017.07.19-15.22.36:302][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.07.19-15.22.38:490][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.07.19-15.22.38:575][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.07.19-15.22.38:658][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.07.19-15.22.38:733][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.07.19-15.22.38:809][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.07.19-15.22.38:900][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.07.19-15.22.38:979][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.07.19-15.22.39:056][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.07.19-15.22.39:126][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.07.19-15.22.39:256][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.07.19-15.22.39:346][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.07.19-15.22.39:427][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.07.19-15.22.39:500][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.07.19-15.22.39:593][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.07.19-15.22.39:667][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.07.19-15.22.39:818][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.07.19-15.22.39:818][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.07.19-15.22.39:895][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.07.19-15.22.40:075][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.07.19-15.22.40:128][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.07.19-15.22.40:210][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.07.19-15.22.40:286][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.07.19-15.22.40:362][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.07.19-15.22.40:453][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.07.19-15.22.40:453][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.07.19-15.22.41:780][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache: Loaded boot cache 0.56s 50MB C:/Users/Camper/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Camper/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.07.19-15.22.42:335][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.07.19-15.22.42:382][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.07.19-15.22.42:396][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Camper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.07.19-15.22.42:405][  0]LogSlate: Using Freetype 2.6.0
+[2017.07.19-15.22.42:406][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.19-15.22.42:406][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.19-15.22.42:719][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.19-15.22.42:722][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.07.19-15.22.43:128][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.07.19-15.22.43:230][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.07.19-15.22.43:320][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.07.19-15.22.43:320][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.07.19-15.22.43:320][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.07.19-15.22.43:983][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3299760, ProjectName: waterwiggler, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1685917286
+[2017.07.19-15.22.44:053][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2017.07.19-15.22.44:121][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.044782 seconds
+[2017.07.19-15.22.44:127][  0]LogUObjectArray: 32493 objects as part of root set at end of initial load.
+[2017.07.19-15.22.44:127][  0]LogUObjectAllocator: 7077024 out of 0 bytes used by permanent object pool.
+[2017.07.19-15.22.44:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.07.19-15.22.44:247][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.07.19-15.22.47:265][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.07.19-15.22.47:333][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.07.19-15.22.48:221][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.07.19-15.22.48:813][  0]SourceControl: Info Source control is disabled
+[2017.07.19-15.22.48:814][  0]SourceControl: Info Source control is disabled
+[2017.07.19-15.22.48:908][  0]SourceControl: Info Source control is disabled
+[2017.07.19-15.22.49:013][  0]SourceControl: Info Source control is disabled
+[2017.07.19-15.22.51:629][  0]LogEngine: Initializing Engine...
+[2017.07.19-15.22.51:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.07.19-15.22.51:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.07.19-15.22.51:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.07.19-15.22.51:921][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.07.19-15.22.51:927][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.22.52:195][  0]LogInit: FAudioDevice initialized.
+[2017.07.19-15.22.52:222][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Camper/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.07.19-15.22.52:226][  0]LogInit: Texture streaming: Enabled
+[2017.07.19-15.22.52:396][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.07.19-15.22.52:602][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.07.19-15.22.52:994][  0]LogInit: Transaction tracking system initialized
+[2017.07.19-15.22.54:395][  0]BlueprintLog: New page: Editor Load
+[2017.07.19-15.22.57:902][  0]LocalizationService: Info Localization service is disabled
+[2017.07.19-15.23.00:381][  0]LogConsoleResponse:Display: 
+[2017.07.19-15.23.01:398][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.07.19-15.23.01:399][  0]LogCook:Display: Mobile HDR setting 1
+[2017.07.19-15.23.02:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/' took 0.02s
+[2017.07.19-15.23.04:631][  0]SourceControl: Info Source control is disabled
+[2017.07.19-15.23.04:631][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.19-15.23.04:632][  0]LightingResults: New page: Lighting Build
+[2017.07.19-15.23.04:700][  0]MapCheck: New page: Map Check
+[2017.07.19-15.23.04:700][  0]LightingResults: New page: Lighting Build
+[2017.07.19-15.23.05:557][  0]LogBlueprint:Warning: [Compiler Sedan] Warning Get Input Axis references unknown Axis 'LookUp' for  Get LookUp
+[2017.07.19-15.23.05:557][  0]LogBlueprint:Warning: [Compiler Sedan] Warning Get Input Axis references unknown Axis 'LookRight' for  Get LookRight
+[2017.07.19-15.23.05:564][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.69] Compile of Sedan successful, but with 2 Warning(s) [in 14 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.05:564][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.69] Compile of Sedan successful, but with 3 Warning(s) [in 0 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.05:565][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.69] Compile of Sedan successful, but with 4 Warning(s) [in 0 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.05:598][  0]LogBlueprint:Warning: [Compiler Sedan] Warning Get Input Axis references unknown Axis 'LookUp' for  Get LookUp
+[2017.07.19-15.23.05:598][  0]LogBlueprint:Warning: [Compiler Sedan] Warning Get Input Axis references unknown Axis 'LookRight' for  Get LookRight
+[2017.07.19-15.23.05:604][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.73] Compile of Sedan successful, but with 2 Warning(s) [in 11 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.05:604][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.73] Compile of Sedan successful, but with 3 Warning(s) [in 0 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.05:605][  0]LogBlueprint:Warning: [Compiler Sedan] Warning [0034.73] Compile of Sedan successful, but with 4 Warning(s) [in 0 ms] (/Game/VehicleBP/Sedan/Sedan.Sedan)
+[2017.07.19-15.23.07:345][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.23.07:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.19-15.23.07:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.19-15.23.07:518][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 84.428ms to complete.
+[2017.07.19-15.23.07:518][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 2.887
+[2017.07.19-15.23.07:873][  0]LogCollectionManager: Loaded 0 collections in 0.002405 seconds
+[2017.07.19-15.23.07:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Collections/' took 0.01s
+[2017.07.19-15.23.07:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Developers/Camper/Collections/' took 0.01s
+[2017.07.19-15.23.07:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Collections/' took 0.01s
+[2017.07.19-15.23.07:967][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.07.19-15.23.07:976][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2247 classes and 456 folders.
+[2017.07.19-15.23.08:057][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.07.19-15.23.08:235][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.07.19-15.23.08:359][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.07.19-15.23.08:500][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.07.19-15.23.08:506][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.07.19-15.23.08:627][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.07.19-15.23.08:627][  0]LogLoad: (Engine Initialization) Total time: 37.75 seconds
+[2017.07.19-15.23.08:627][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.29 seconds
+[2017.07.19-15.23.08:627][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.07.19-15.23.08:644][  0]LogOcInput: OculusInput pre-init called
+[2017.07.19-15.23.08:645][  0]LogRawInputWindows:Warning: Found device 0 devices
+[2017.07.19-15.23.08:645][  0]LogRawInputWindows:Warning: Found device 0 devices
+[2017.07.19-15.23.08:645][  0]LogRawInputWindows:Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2017.07.19-15.23.08:676][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.07.19-15.23.08:678][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.07.19-15.23.08:681][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.07.19-15.23.08:687][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.07.19-15.23.08:836][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.19-15.23.08:886][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.07.19-15.23.08:973][  1]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.23.08:973][  1]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.19-15.23.08:988][  1]LogAssetRegistry: Asset discovery search completed in 24.9574 seconds
+[2017.07.19-15.23.08:988][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2017.07.19-15.23.08:988][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.07.19-15.23.38:761][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-15.24.28:941][543]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.24.28:957][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.24.28:957][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.24.28:958][543]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:24:28 AM)
+[2017.07.19-15.24.28:958][543]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.24.28:981][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023121s)
+[2017.07.19-15.24.28:982][543]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.24.28:982][543]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2017.07.19-15.24.28:983][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.024893s)
+[2017.07.19-15.24.29:019][543]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.24.29:032][543]LogInit: FAudioDevice initialized.
+[2017.07.19-15.24.29:111][543]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.24.29:118][543]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.24.29:118][543]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.24.29
+[2017.07.19-15.24.29:119][543]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.24.29:119][543]LogWorld: Bringing up level for play took: 0.002645
+[2017.07.19-15.24.29:119][543]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.24.29:171][543]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.07.19-15.24.29:173][543]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.058
+[2017.07.19-15.24.29:173][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.24.35:039][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.24.35:129][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.00:918][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-15.25.11:863][899]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.25.11:878][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.11:878][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.25.11:878][899]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:25:11 AM)
+[2017.07.19-15.25.11:878][899]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.25.11:897][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019474s)
+[2017.07.19-15.25.11:898][899]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.25.11:899][899]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2017.07.19-15.25.11:899][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020964s)
+[2017.07.19-15.25.11:919][899]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.25.11:934][899]LogInit: FAudioDevice initialized.
+[2017.07.19-15.25.11:965][899]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.25.11:970][899]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.25.11:970][899]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.25.11
+[2017.07.19-15.25.11:971][899]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.25.11:971][899]LogWorld: Bringing up level for play took: 0.002451
+[2017.07.19-15.25.11:971][899]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.25.11:973][899]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.142
+[2017.07.19-15.25.11:973][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.25:970][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.26:015][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.30:820][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-15.25.46:287][980]LogSlate: Took 0.042121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.07.19-15.25.54:529][247]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.25.54:544][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.54:544][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.25.54:544][247]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:25:54 AM)
+[2017.07.19-15.25.54:544][247]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.25.54:560][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016245s)
+[2017.07.19-15.25.54:561][247]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.25.54:561][247]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2017.07.19-15.25.54:561][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017610s)
+[2017.07.19-15.25.54:588][247]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.25.54:600][247]LogInit: FAudioDevice initialized.
+[2017.07.19-15.25.54:635][247]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.25.54:640][247]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.25.54:640][247]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.25.54
+[2017.07.19-15.25.54:641][247]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.25.54:641][247]LogWorld: Bringing up level for play took: 0.002287
+[2017.07.19-15.25.54:641][247]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.25.54:642][247]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.527
+[2017.07.19-15.25.54:643][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.59:954][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.25.59:998][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.02:287][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-15.26.09:856][721]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.26.09:876][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.09:876][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.26.09:876][721]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:26:09 AM)
+[2017.07.19-15.26.09:877][721]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.26.09:893][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016968s)
+[2017.07.19-15.26.09:894][721]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.26.09:894][721]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2017.07.19-15.26.09:895][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018328s)
+[2017.07.19-15.26.09:914][721]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.26.09:928][721]LogInit: FAudioDevice initialized.
+[2017.07.19-15.26.09:957][721]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.26.09:962][721]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.26.09:962][721]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.26.09
+[2017.07.19-15.26.09:963][721]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.09:963][721]LogWorld: Bringing up level for play took: 0.002296
+[2017.07.19-15.26.09:963][721]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.09:965][721]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.15
+[2017.07.19-15.26.09:965][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.15:596][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.15:641][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.26:801][248]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.26.26:816][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.26:816][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.26.26:816][248]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:26:26 AM)
+[2017.07.19-15.26.26:816][248]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.26.26:832][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016163s)
+[2017.07.19-15.26.26:833][248]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.26.26:833][248]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2017.07.19-15.26.26:833][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017398s)
+[2017.07.19-15.26.26:851][248]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.26.26:866][248]LogInit: FAudioDevice initialized.
+[2017.07.19-15.26.26:898][248]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.26.26:904][248]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.26.26:904][248]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.26.26
+[2017.07.19-15.26.26:904][248]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.26:904][248]LogWorld: Bringing up level for play took: 0.002248
+[2017.07.19-15.26.26:905][248]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.26:906][248]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.791
+[2017.07.19-15.26.26:906][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.32:011][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.32:080][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.42:650][738]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-15.26.42:666][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.42:666][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-15.26.42:667][738]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 7:26:42 AM)
+[2017.07.19-15.26.42:667][738]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-15.26.42:684][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017454s)
+[2017.07.19-15.26.42:685][738]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-15.26.42:685][738]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2017.07.19-15.26.42:686][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018897s)
+[2017.07.19-15.26.42:703][738]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-15.26.42:715][738]LogInit: FAudioDevice initialized.
+[2017.07.19-15.26.42:745][738]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-15.26.42:751][738]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-15.26.42:751][738]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-11.26.42
+[2017.07.19-15.26.42:752][738]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.42:752][738]LogWorld: Bringing up level for play took: 0.002597
+[2017.07.19-15.26.42:752][738]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.26.42:754][738]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.639
+[2017.07.19-15.26.42:755][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.48:338][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.48:408][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-15.26.53:970][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column)
+[2017.07.19-15.26.55:277][119]Cmd: DELETE
+[2017.07.19-15.26.55:277][119]Cmd: ACTOR DELETE
+[2017.07.19-15.26.55:278][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.07.19-15.26.55:290][119]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.07.19-15.26.59:872][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-15.27.08:822][501]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.19-15.27.09:325][501]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.07.19-15.27.09:448][501]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 112 classes and 0 folders.
+[2017.07.19-15.27.10:300][501]LogSlate: Took 0.010111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.07.19-15.28.01:347][528]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-15.28.01:908][535]LogSavePackage: Save=24.05ms
+[2017.07.19-15.28.01:908][535]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintFE3AD0CB4DF4FBD13F3380B11CF71AF0.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-15.28.01:915][535]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-15.28.12:693][757]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-15.28.13:176][763]LogSavePackage: Save=23.15ms
+[2017.07.19-15.28.13:176][763]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintF9D443FE4AAD25AB37F8EEB95EC14751.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-15.28.13:182][763]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-15.28.32:863][181]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-15.28.33:508][191]LogSavePackage: Save=23.50ms
+[2017.07.19-15.28.33:509][191]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint8B0B802640EE0653F0E3AEB0594882DF.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-15.28.33:515][191]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-15.29.41:809][300]LogSavePackage: Save=146.59ms
+[2017.07.19-15.29.41:809][300]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap274230164F609DDDC28620BC97F4185A.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.07.19-15.29.41:817][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.07.19-15.29.42:377][300]LogSavePackage: Save=493.99ms
+[2017.07.19-15.29.42:377][300]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap_BuiltData6FB7A62F43C1F236825504AAC58335CB.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2017.07.19-15.29.42:381][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset
+[2017.07.19-15.31.10:032][800]LogSlate: Took 0.045846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.07.19-15.31.50:406][493]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.07.19-15.33.50:748][ 41]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-15.33.53:207][ 79]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-15.33.53:707][ 82]LogSavePackage: Save=90.94ms
+[2017.07.19-15.33.53:707][ 82]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintE754665F418F938C15C029B56B3DC221.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-15.33.53:715][ 82]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-15.35.28:401][243]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.36.16:594][859]LogEditorTransaction: Undo Delete current selection
+[2017.07.19-15.36.16:636][859]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.19-15.36.20:188][996]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-15.36.20:365][996]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.36.20:368][996]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.36.20:641][  1]LogSavePackage: Save=27.68ms
+[2017.07.19-15.36.20:641][  1]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintE94D96014273C781E9FCCB875916E890.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-15.36.20:649][  1]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-15.39.42:019][727]LogSavePackage: Save=152.46ms
+[2017.07.19-15.39.42:019][727]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap_Auto13B89AE6447A0D87E044E1FB8EB607B07.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap'
+[2017.07.19-15.39.42:024][727]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap
+[2017.07.19-15.39.42:027][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.215
+[2017.07.19-15.39.42:027][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2017.07.19-15.45.32:980][928]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-15.45.33:151][928]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-15.45.33:490][932]LogSavePackage: Save=90.23ms
+[2017.07.19-15.45.33:490][932]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint0826A2FE4773007A3FA8C29009F9B74E.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-15.45.33:498][932]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-15.49.42:430][820]LogSavePackage: Save=154.42ms
+[2017.07.19-15.49.42:430][820]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap_Auto2AD1AA5BA4B14B78C8338A39B414DA65E.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto2.umap'
+[2017.07.19-15.49.42:434][820]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto2.umap
+[2017.07.19-15.49.42:437][820]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.218
+[2017.07.19-15.49.42:437][820]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.218
+[2017.07.19-19.25.05:545][586]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.022
+[2017.07.19-19.25.05:549][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint] ([1] browsable assets)...
+[2017.07.19-19.25.05:549][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint]
+[2017.07.19-19.25.05:663][586]LogSavePackage: Save=92.11ms
+[2017.07.19-19.25.05:663][586]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint_Auto3E537D5474C179DDF0CB7C4B75EAE84D2.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto3.uasset'
+[2017.07.19-19.25.05:667][586]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto3.uasset
+[2017.07.19-19.25.05:667][586]LogFileHelpers: Auto-saving content packages took 0.120
+[2017.07.19-20.38.56:508][312]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.07.19-20.38.56:735][317]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.WaterWiggler
+
+[2017.07.19-20.38.56:735][317]LogTemp:Display: CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.07.19-20.38.56:735][317]LogTemp:Display: Initial Dir: C:\Program Files\Epic Games\UE_4.15
+
+[2017.07.19-20.38.56:735][317]LogTemp:Display: Env CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.07.19-20.38.56:735][317]LogTemp:Display: BranchPath = EGDWS_MA_37/C/Program Files/Epic Games/UE_4.15/Engine/Binaries --- GameBranchPath = EGDWS_MA_37/C/Program Files/Epic Games/UE_4.15/Engine/Binaries
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Camper\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.07.19-20.38.56:758][318]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.07.19-20.45.12:819][220]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-20.45.13:012][220]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.45.13:025][220]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.45.13:809][241]LogSavePackage: Save=94.18ms
+[2017.07.19-20.45.13:809][241]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint80C0339A46A2DDE1F0346A9BAE8B0E25.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-20.45.13:816][241]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-20.45.59:909][822]BlueprintLog: New page: Compile GameManager
+[2017.07.19-20.45.59:942][822]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.46.00:057][822]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.46.00:532][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameManager" FILE="../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset" SILENT=true
+[2017.07.19-20.46.00:584][835]LogSavePackage: Save=34.99ms
+[2017.07.19-20.46.00:584][835]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/GameManager4C38CE454D37F305D3BA35AC3D43EEC0.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset'
+[2017.07.19-20.46.00:591][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset
+[2017.07.19-20.46.52:048][696]LogEditorTransaction: Undo Move Nodes
+[2017.07.19-20.51.09:715][408]LogEditorTransaction: Undo Modify Component(s)
+[2017.07.19-20.53.02:462][906]LogEditorTransaction: Undo Modify Component(s)
+[2017.07.19-20.53.26:854][876]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-20.53.27:023][876]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.53.27:443][883]LogSavePackage: Save=91.17ms
+[2017.07.19-20.53.27:443][883]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintF939E6AD45A96A2DBC740F8D033DD705.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-20.53.27:451][883]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-20.53.48:493][683]LogEditorTransaction: Undo Move Node
+[2017.07.19-20.53.52:360][818]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-20.53.52:519][818]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.53.52:905][824]LogSavePackage: Save=91.69ms
+[2017.07.19-20.53.52:905][824]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintEC65E65E404D11397661DFB0D8A96408.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-20.53.52:913][824]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-20.58.14:323][844]LogSavePackage: Save=149.06ms
+[2017.07.19-20.58.14:323][844]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap_Auto4C840846048351382516DF0BDE25369D0.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto4.umap'
+[2017.07.19-20.58.14:327][844]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto4.umap
+[2017.07.19-20.58.14:331][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.217
+[2017.07.19-20.58.14:331][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2017.07.19-20.58.14:335][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint] ([1] browsable assets)...
+[2017.07.19-20.58.14:362][844]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint]
+[2017.07.19-20.58.14:362][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint]
+[2017.07.19-20.58.14:471][844]LogSavePackage: Save=95.56ms
+[2017.07.19-20.58.14:471][844]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint_Auto46722F43543CC15A9F098C8A2594C77E5.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto4.uasset'
+[2017.07.19-20.58.14:475][844]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto4.uasset
+[2017.07.19-20.58.14:475][844]LogFileHelpers: Auto-saving content packages took 0.143
+[2017.07.19-20.59.36:729][618]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-20.59.36:890][618]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.59.37:376][627]LogSavePackage: Save=97.60ms
+[2017.07.19-20.59.37:376][627]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint86FBDF7B4EDFE859019CC8A74412099C.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-20.59.37:384][627]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-20.59.40:049][709]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-20.59.40:063][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-20.59.40:063][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-20.59.40:064][709]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 12:59:40 PM)
+[2017.07.19-20.59.40:064][709]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-20.59.40:087][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023552s)
+[2017.07.19-20.59.40:088][709]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-20.59.40:089][709]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2017.07.19-20.59.40:089][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.025258s)
+[2017.07.19-20.59.40:117][709]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-20.59.40:131][709]LogInit: FAudioDevice initialized.
+[2017.07.19-20.59.40:163][709]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-20.59.40:169][709]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-20.59.40:169][709]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-16.59.40
+[2017.07.19-20.59.40:170][709]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.59.40:170][709]LogWorld: Bringing up level for play took: 0.002477
+[2017.07.19-20.59.40:170][709]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.59.40:172][709]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.057
+[2017.07.19-20.59.40:172][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-20.59.51:850][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-20.59.51:918][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-20.59.57:846][267]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-20.59.57:861][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-20.59.57:861][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-20.59.57:862][267]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 12:59:57 PM)
+[2017.07.19-20.59.57:862][267]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-20.59.57:880][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018594s)
+[2017.07.19-20.59.57:881][267]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-20.59.57:881][267]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2017.07.19-20.59.57:882][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020053s)
+[2017.07.19-20.59.57:906][267]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-20.59.57:918][267]LogInit: FAudioDevice initialized.
+[2017.07.19-20.59.57:948][267]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-20.59.57:954][267]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-20.59.57:954][267]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-16.59.57
+[2017.07.19-20.59.57:955][267]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.59.57:955][267]LogWorld: Bringing up level for play took: 0.002296
+[2017.07.19-20.59.57:955][267]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-20.59.57:957][267]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.158
+[2017.07.19-20.59.57:957][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.04:412][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.04:463][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.08:776][568]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.00.08:790][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.08:790][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.00.08:791][568]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:00:08 PM)
+[2017.07.19-21.00.08:791][568]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.00.08:811][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020492s)
+[2017.07.19-21.00.08:813][568]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.00.08:813][568]LogPlayLevel: PIE: World Init took: (0.001917s)
+[2017.07.19-21.00.08:813][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.022747s)
+[2017.07.19-21.00.08:836][568]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.00.08:849][568]LogInit: FAudioDevice initialized.
+[2017.07.19-21.00.08:882][568]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.00.08:888][568]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.00.08:888][568]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.00.08
+[2017.07.19-21.00.08:888][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.00.08:888][568]LogWorld: Bringing up level for play took: 0.002242
+[2017.07.19-21.00.08:889][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.00.08:890][568]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.775
+[2017.07.19-21.00.08:891][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.29:974][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.00.30:091][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.01.20:556][624]BlueprintLog: New page: Compile GameManager
+[2017.07.19-21.01.20:598][624]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.01.20:704][624]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.01.20:726][624]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.01.21:112][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameManager" FILE="../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset" SILENT=true
+[2017.07.19-21.01.21:162][633]LogSavePackage: Save=34.61ms
+[2017.07.19-21.01.21:162][633]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/GameManager5D38100544A6D508832AA18734BAABB4.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset'
+[2017.07.19-21.01.21:170][633]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/GameManager.uasset
+[2017.07.19-21.02.33:700][675]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-21.02.33:867][675]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.02.34:321][683]LogSavePackage: Save=29.35ms
+[2017.07.19-21.02.34:321][683]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintFA35E60348F5064CDAFA309BBED780B5.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-21.02.34:329][683]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-21.02.36:494][750]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.02.36:510][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.02.36:510][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.02.36:510][750]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:02:36 PM)
+[2017.07.19-21.02.36:510][750]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.02.36:531][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021327s)
+[2017.07.19-21.02.36:532][750]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.02.36:532][750]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2017.07.19-21.02.36:533][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.022858s)
+[2017.07.19-21.02.36:558][750]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.02.36:573][750]LogInit: FAudioDevice initialized.
+[2017.07.19-21.02.36:603][750]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.02.36:610][750]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.02.36:610][750]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.02.36
+[2017.07.19-21.02.36:610][750]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.02.36:610][750]LogWorld: Bringing up level for play took: 0.002746
+[2017.07.19-21.02.36:611][750]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.02.36:612][750]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.497
+[2017.07.19-21.02.36:612][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.00:977][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.01:049][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.38:775][699]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-21.03.38:929][699]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.03.39:466][711]LogSavePackage: Save=27.82ms
+[2017.07.19-21.03.39:466][711]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint2B5CCB7C41539FD4B42BB8B830158928.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-21.03.39:474][711]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-21.03.42:468][797]LogSavePackage: Save=89.29ms
+[2017.07.19-21.03.42:468][797]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintEE78524B4569562A639DC58736F608CF.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-21.03.42:475][797]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-21.03.44:110][847]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.03.44:124][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.44:125][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.03.44:125][847]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:03:44 PM)
+[2017.07.19-21.03.44:125][847]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.03.44:142][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017201s)
+[2017.07.19-21.03.44:143][847]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.03.44:143][847]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2017.07.19-21.03.44:143][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018502s)
+[2017.07.19-21.03.44:170][847]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.03.44:183][847]LogInit: FAudioDevice initialized.
+[2017.07.19-21.03.44:214][847]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.03.44:220][847]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.03.44:220][847]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.03.44
+[2017.07.19-21.03.44:220][847]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.03.44:220][847]LogWorld: Bringing up level for play took: 0.002420
+[2017.07.19-21.03.44:221][847]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.03.44:222][847]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.107
+[2017.07.19-21.03.44:223][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.58:409][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.03.58:471][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.04.12:199][607]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-21.04.12:347][607]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.04.12:726][612]LogSavePackage: Save=27.83ms
+[2017.07.19-21.04.12:726][612]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintFCFFFF48485BF3ED7A4249A3282D0319.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-21.04.12:733][612]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-21.04.35:379][120]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.04.35:398][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.04.35:398][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.04.35:399][120]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:04:35 PM)
+[2017.07.19-21.04.35:399][120]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.04.35:416][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017724s)
+[2017.07.19-21.04.35:417][120]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.04.35:417][120]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2017.07.19-21.04.35:418][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.019034s)
+[2017.07.19-21.04.35:442][120]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.04.35:455][120]LogInit: FAudioDevice initialized.
+[2017.07.19-21.04.35:490][120]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.04.35:496][120]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.04.35:496][120]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.04.35
+[2017.07.19-21.04.35:496][120]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.04.35:497][120]LogWorld: Bringing up level for play took: 0.002358
+[2017.07.19-21.04.35:497][120]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.04.35:499][120]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.616
+[2017.07.19-21.04.35:499][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.04.54:556][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.04.54:622][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.06.19:941][580]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.19-21.06.20:670][580]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.06.20:674][580]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.06.20:755][580]LogSavePackage: Save=19.19ms
+[2017.07.19-21.06.20:755][580]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintC64B824C4AECDFB0B3FBD8899D6790CB.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.19-21.06.20:763][580]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.19-21.06.22:653][626]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.06.22:668][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.06.22:668][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.06.22:668][626]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:06:22 PM)
+[2017.07.19-21.06.22:669][626]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.06.22:691][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022094s)
+[2017.07.19-21.06.22:692][626]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.06.22:692][626]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2017.07.19-21.06.22:692][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.023686s)
+[2017.07.19-21.06.22:717][626]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.06.22:732][626]LogInit: FAudioDevice initialized.
+[2017.07.19-21.06.22:763][626]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.06.22:769][626]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.06.22:769][626]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.06.22
+[2017.07.19-21.06.22:770][626]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.06.22:770][626]LogWorld: Bringing up level for play took: 0.002416
+[2017.07.19-21.06.22:770][626]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.06.22:772][626]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.657
+[2017.07.19-21.06.22:772][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.06.47:738][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.06.47:793][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.07.59:920][586]LogEditorTransaction: Undo Move Nodes
+[2017.07.19-21.09.50:135][362]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-21.09.50:301][362]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.09.50:743][369]LogSavePackage: Save=98.47ms
+[2017.07.19-21.09.50:743][369]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint7BF8E5774EAEF8FB84C3DD80442AAA27.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-21.09.50:750][369]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-21.09.54:093][468]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.09.54:108][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.09.54:108][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.09.54:108][468]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:09:54 PM)
+[2017.07.19-21.09.54:108][468]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.09.54:131][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022770s)
+[2017.07.19-21.09.54:132][468]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.09.54:132][468]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2017.07.19-21.09.54:132][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.024377s)
+[2017.07.19-21.09.54:159][468]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.09.54:173][468]LogInit: FAudioDevice initialized.
+[2017.07.19-21.09.54:205][468]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.09.54:210][468]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.09.54:211][468]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.09.54
+[2017.07.19-21.09.54:211][468]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.09.54:211][468]LogWorld: Bringing up level for play took: 0.002584
+[2017.07.19-21.09.54:212][468]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.09.54:214][468]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.099
+[2017.07.19-21.09.54:214][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.10.14:511][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.10.14:572][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.10.52:014][340]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.19-21.10.52:177][340]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.10.52:642][348]LogSavePackage: Save=94.05ms
+[2017.07.19-21.10.52:642][348]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint2C34D47C4E9FDF13BFAEF99040460BD8.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.19-21.10.52:650][348]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.19-21.10.54:469][406]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-21.10.54:484][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.10.54:484][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-21.10.54:484][406]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 1:10:54 PM)
+[2017.07.19-21.10.54:484][406]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-21.10.54:502][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017675s)
+[2017.07.19-21.10.54:502][406]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-21.10.54:503][406]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2017.07.19-21.10.54:503][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.019174s)
+[2017.07.19-21.10.54:530][406]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-21.10.54:542][406]LogInit: FAudioDevice initialized.
+[2017.07.19-21.10.54:571][406]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-21.10.54:576][406]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-21.10.54:576][406]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-17.10.54
+[2017.07.19-21.10.54:577][406]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.10.54:577][406]LogWorld: Bringing up level for play took: 0.002486
+[2017.07.19-21.10.54:577][406]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-21.10.54:579][406]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.464
+[2017.07.19-21.10.54:580][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.11.50:725][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.11.50:794][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-21.11.52:445][251]LogSavePackage: Save=157.80ms
+[2017.07.19-21.11.52:445][251]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap5F467D594C37A6C0721A06BF39E7FE0D.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.07.19-21.11.52:453][251]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.07.19-21.11.52:882][251]LogSavePackage: Save=364.01ms
+[2017.07.19-21.11.52:882][251]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/VehicleExampleMap_BuiltData032751634299D6D3A70638A8037269CB.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2017.07.19-21.11.52:887][251]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset
+[2017.07.19-22.30.17:571][951]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-22.30.17:586][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-22.30.17:586][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-22.30.17:586][951]PIE: New page: PIE session: VehicleExampleMap (Jul 19, 2017, 2:30:17 PM)
+[2017.07.19-22.30.17:586][951]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.07.19-22.30.17:606][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019251s)
+[2017.07.19-22.30.17:607][951]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.07.19-22.30.17:607][951]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2017.07.19-22.30.17:607][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020792s)
+[2017.07.19-22.30.17:640][951]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-22.30.17:654][951]LogInit: FAudioDevice initialized.
+[2017.07.19-22.30.17:687][951]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-22.30.17:694][951]LogVehicles:Warning: Cannot create vehicle for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.ChrisCraft_Blueprint_678.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-22.30.17:694][951]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.07.19-18.30.17
+[2017.07.19-22.30.17:695][951]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.30.17:695][951]LogWorld: Bringing up level for play took: 0.002873
+[2017.07.19-22.30.17:695][951]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.30.17:697][951]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.418
+[2017.07.19-22.30.17:697][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-22.30.44:268][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-22.30.44:322][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.07.19-22.30.48:845][935]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.19-22.30.48:870][935]Cmd: MAP LOAD FILE="../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/Prototype_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.19-22.30.48:870][935]LightingResults: New page: Lighting Build
+[2017.07.19-22.30.48:872][935]LoadErrors: New page: Loading map: Prototype_map.umap
+[2017.07.19-22.30.48:873][935]MapCheck: New page: Map Check
+[2017.07.19-22.30.48:873][935]LightingResults: New page: Lighting Build
+[2017.07.19-22.30.48:983][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.19-22.30.49:010][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.19-22.30.49:115][935]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 104ms to complete.
+[2017.07.19-22.30.49:116][935]LogFileHelpers: Loading map 'Prototype_map' took 0.246
+[2017.07.19-22.30.51:080][993]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-22.30.51:109][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-22.30.51:109][993]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 2:30:51 PM)
+[2017.07.19-22.30.51:109][993]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.19-22.30.51:113][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004457s)
+[2017.07.19-22.30.51:114][993]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.19-22.30.51:114][993]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2017.07.19-22.30.51:114][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.005595s)
+[2017.07.19-22.30.51:138][993]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-22.30.51:149][993]LogInit: FAudioDevice initialized.
+[2017.07.19-22.30.51:183][993]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-22.30.51:189][993]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-22.30.51:189][993]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-18.30.51
+[2017.07.19-22.30.51:189][993]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.30.51:190][993]LogWorld: Bringing up level for play took: 0.001568
+[2017.07.19-22.30.51:190][993]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.30.51:191][993]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map 1.076
+[2017.07.19-22.31.09:100][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-22.31.30:364][211]LogTexture:Display: Building textures: Texture2D_2 (G8, 128X128) - 89 MB total VRAM
+[2017.07.19-22.31.37:537][355]LogTexture:Display: Building textures: Texture2D_0 (BGRA8, 512X512) - 95 MB total VRAM
+[2017.07.19-22.31.37:571][355]LogMaterial: 0.00 seconds spent updating 1 materials, 64 interfaces, 0 instances, 0 with static permutations.
+[2017.07.19-22.32.05:746][ 60]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.19-22.32.58:368][168]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.19-22.33.01:247][232]Cmd: DELETE
+[2017.07.19-22.33.01:247][232]Cmd: ACTOR DELETE
+[2017.07.19-22.33.01:247][232]LogEditorActor: Deleted Actor: Landscape
+[2017.07.19-22.33.01:323][232]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2017.07.19-22.33.44:131][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-22.33.51:360][748]LogTexture:Display: Building textures: Texture2D_1 (BGRA8, 512X512) - 97 MB total VRAM
+[2017.07.19-22.33.51:375][748]LogTexture:Display: Building textures: Texture2D_2 (BGRA8, 128X512) - 97 MB total VRAM
+[2017.07.19-22.33.51:382][748]LogTexture:Display: Building textures: Texture2D_3 (BGRA8, 512X128) - 97 MB total VRAM
+[2017.07.19-22.33.51:389][748]LogTexture:Display: Building textures: Texture2D_4 (BGRA8, 128X128) - 97 MB total VRAM
+[2017.07.19-22.33.51:401][748]LogMaterial: 0.00 seconds spent updating 1 materials, 100 interfaces, 0 instances, 0 with static permutations.
+[2017.07.19-22.34.02:361][ 48]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2017.07.19-22.34.08:144][215]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.07.19-22.34.08:178][215]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.07.19-22.35.09:376][220]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2017.07.19-22.37.57:602][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-22.38.26:556][160]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:561][160]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:569][161]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:572][161]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:586][162]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:589][162]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:603][163]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:607][163]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:619][164]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:623][164]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:636][165]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:639][165]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:652][166]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:656][166]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:669][167]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:672][167]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:686][168]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:690][168]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:702][169]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:706][169]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:719][170]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:723][170]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:736][171]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:739][171]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:753][172]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:757][172]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:769][173]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:773][173]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:786][174]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:789][174]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:802][175]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:806][175]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:819][176]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:823][176]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:836][177]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:839][177]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:852][178]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:856][178]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:869][179]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:872][179]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:884][180]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:886][180]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:890][180]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:902][181]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:906][181]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:919][182]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:922][182]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:936][183]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:939][183]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:952][184]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:955][184]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:969][185]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:972][185]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:985][186]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.26:989][186]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:002][187]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:005][187]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:019][188]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:022][188]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:035][189]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:038][189]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:052][190]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:055][190]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:069][191]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:072][191]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:086][192]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:089][192]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:102][193]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:105][193]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:119][194]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:122][194]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:135][195]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:139][195]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:152][196]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:156][196]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:169][197]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:172][197]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:185][198]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:189][198]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:202][199]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:206][199]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.27:217][200]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:318][410]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:322][410]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:332][411]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:335][411]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:347][412]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:352][412]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:364][413]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:369][413]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:381][414]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:386][414]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:397][415]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:402][415]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:414][416]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:419][416]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:431][417]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:435][417]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:448][418]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:453][418]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:464][419]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:469][419]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:481][420]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:486][420]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:497][421]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:502][421]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:514][422]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:518][422]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:531][423]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:535][423]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:548][424]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:552][424]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:564][425]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:569][425]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:581][426]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:585][426]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:597][427]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:602][427]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:614][428]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:618][428]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:631][429]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:637][429]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:647][430]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:651][430]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:664][431]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:669][431]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:680][432]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:684][432]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:697][433]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:702][433]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:714][434]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:719][434]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:731][435]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:735][435]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:748][436]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:752][436]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:764][437]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:769][437]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:781][438]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:784][438]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:797][439]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:802][439]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:814][440]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:818][440]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:830][441]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:835][441]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:847][442]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:851][442]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:864][443]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:868][443]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:881][444]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:885][444]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:897][445]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:901][445]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:914][446]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:918][446]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:930][447]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:935][447]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:947][448]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:952][448]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:964][449]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:968][449]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:981][450]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:985][450]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.34:998][451]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:002][451]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:014][452]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:018][452]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:031][453]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:037][453]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:047][454]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:052][454]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:064][455]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:068][455]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:081][456]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:085][456]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:098][457]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:102][457]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:114][458]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:119][458]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:131][459]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:136][459]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:148][460]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:152][460]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:162][461]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:165][461]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:169][461]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:181][462]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:186][462]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:198][463]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:203][463]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:214][464]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:218][464]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:231][465]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:235][465]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:247][466]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:252][466]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:265][467]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:269][467]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:281][468]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:285][468]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:297][469]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:302][469]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:314][470]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:318][470]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:331][471]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:336][471]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:347][472]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:352][472]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:364][473]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:369][473]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:380][474]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:385][474]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:398][475]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:402][475]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:414][476]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:418][476]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:430][477]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:435][477]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:447][478]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:452][478]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:464][479]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:468][479]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:481][480]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:485][480]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:497][481]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:502][481]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:514][482]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:518][482]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:531][483]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:535][483]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:547][484]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:552][484]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:564][485]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:568][485]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:581][486]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:585][486]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:597][487]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:602][487]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:614][488]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:618][488]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:631][489]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:635][489]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:647][490]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:652][490]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:664][491]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:669][491]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:681][492]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:685][492]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.35:695][493]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.19-22.38.47:846][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.19-22.39.31:829][282]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-22.39.31:844][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-22.39.31:844][282]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 2:39:31 PM)
+[2017.07.19-22.39.31:844][282]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.19-22.39.31:860][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015936s)
+[2017.07.19-22.39.31:861][282]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.19-22.39.31:861][282]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.07.19-22.39.31:861][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.017065s)
+[2017.07.19-22.39.31:891][282]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-22.39.31:904][282]LogInit: FAudioDevice initialized.
+[2017.07.19-22.39.31:934][282]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-22.39.31:941][282]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-22.39.31:941][282]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-18.39.31
+[2017.07.19-22.39.31:942][282]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.31:942][282]LogWorld: Bringing up level for play took: 0.004301
+[2017.07.19-22.39.31:942][282]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.31:943][282]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=180.000] for [Worm_Blueprint_C]
+[2017.07.19-22.39.31:943][282]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 3244.798340 219.155396 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.19-22.39.31:944][282]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.171
+[2017.07.19-22.39.38:088][468]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-22.39.38:103][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-22.39.38:103][468]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 2:39:38 PM)
+[2017.07.19-22.39.38:103][468]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.19-22.39.38:118][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014949s)
+[2017.07.19-22.39.38:119][468]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.19-22.39.38:119][468]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2017.07.19-22.39.38:119][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.016152s)
+[2017.07.19-22.39.38:143][468]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-22.39.38:154][468]LogInit: FAudioDevice initialized.
+[2017.07.19-22.39.38:188][468]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-22.39.38:195][468]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-22.39.38:195][468]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-18.39.38
+[2017.07.19-22.39.38:196][468]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.38:196][468]LogWorld: Bringing up level for play took: 0.004131
+[2017.07.19-22.39.38:196][468]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.38:197][468]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=180.000] for [Worm_Blueprint_C]
+[2017.07.19-22.39.38:197][468]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 3244.798340 219.155396 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.19-22.39.38:198][468]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map 0.083
+[2017.07.19-22.39.41:392][568]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.19-22.39.41:407][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.19-22.39.41:407][568]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 2:39:41 PM)
+[2017.07.19-22.39.41:407][568]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.19-22.39.41:421][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014116s)
+[2017.07.19-22.39.41:422][568]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.19-22.39.41:422][568]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2017.07.19-22.39.41:422][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.015162s)
+[2017.07.19-22.39.41:447][568]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.19-22.39.41:459][568]LogInit: FAudioDevice initialized.
+[2017.07.19-22.39.41:492][568]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.19-22.39.41:500][568]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.19-22.39.41:500][568]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-18.39.41
+[2017.07.19-22.39.41:500][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.41:501][568]LogWorld: Bringing up level for play took: 0.004280
+[2017.07.19-22.39.41:501][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.19-22.39.41:502][568]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=180.000] for [Worm_Blueprint_C]
+[2017.07.19-22.39.41:502][568]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 3244.798340 219.155396 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.19-22.39.41:503][568]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.613
+[2017.07.19-22.39.57:615][987]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.57:898][992]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:016][994]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:078][995]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:145][996]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:206][997]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:270][998]PIE:Warning: Warning Mobility of Landscape_1 : RootComponent0 has to be 'Movable' if you'd like to move. 
+[2017.07.19-22.39.58:715][  6]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.07.19-22.40.00:899][  6]LogCrashTracker: 
+
+
+[2017.07.19-22.40.00:899][  6]LogCrashTracker: 
+
+
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: === Critical error: ===
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: 
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: Assertion failed: !OwningWorld->IsGameWorld() [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\Landscape\Private\Landscape.cpp] [Line: 750] 
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: 
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: 
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: 
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: KERNELBASE.dll!0x000000005EB63C58
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B364EE
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x000000002595CEEE
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x00000000258E2729
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Landscape.dll!0x000000001F473A7B
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Landscape.dll!0x000000001F4A7AF7
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Landscape.dll!0x000000001F4A122E
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-UnrealEd.dll!0x00000000203165A0
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-UnrealEd.dll!0x000000002034F7CD
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-UnrealEd.dll!0x000000001FFD53D1
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-UnrealEd.dll!0x000000001FFBA4FB
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-UnrealEd.dll!0x0000000020306EC2
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Engine.dll!0x0000000022CEB2C4
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x0000000021922F39
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x00000000216D411C
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x00000000216A47F5
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x0000000021747193
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x0000000021731100
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Slate.dll!0x0000000021720211
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B2CDF9
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B167C1
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B2EA1C
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B126E9
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: USER32.dll!0x000000005FAA1C24
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: USER32.dll!0x000000005FAA156C
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor-Core.dll!0x0000000025B2F326
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor.exe!0x000000006253D790
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor.exe!0x000000006252EB40
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor.exe!0x000000006252EBBA
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor.exe!0x0000000062540A29
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: UE4Editor.exe!0x00000000625422B6
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: KERNEL32.DLL!0x000000005F478364
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: ntdll.dll!0x0000000061A670D1
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: ntdll.dll!0x0000000061A670D1
+[2017.07.19-22.40.00:899][  6]LogWindows:Error: 
+[2017.07.19-22.40.00:933][  6]LogExit: Executing StaticShutdownAfterError
+[2017.07.19-22.40.00:943][  6]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.07.19-22.40.00:957][  6]Log file closed, 07/19/17 18:40:00
