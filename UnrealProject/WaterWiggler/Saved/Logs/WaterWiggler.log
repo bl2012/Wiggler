@@ -1774,3 +1774,783 @@ Scale3D: 1.000000 1.000000 1.000000
 [2017.07.19-23.52.32:220][521]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
 [2017.07.19-23.52.36:364][596]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2017.07.19-23.52.36:446][596]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.07.20-00.02.28:567][410]LogSavePackage: Save=127.02ms
+[2017.07.20-00.02.28:567][410]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Prototype_map_Auto3DCFBD55B4D9B81A72D2C558517D40F5A.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/Prototype_map_Auto3.umap'
+[2017.07.20-00.02.28:571][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/Prototype_map_Auto3.umap
+[2017.07.20-00.02.28:574][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Prototype_map' took 0.180
+[2017.07.20-00.02.28:574][410]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.180
+[2017.07.20-02.36.54:285][644]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-02.36.54:285][644]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-02.36.56:055][683]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-02.36.56:055][683]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-02.37.08:890][929]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.07.20-02.37.08:976][930]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.WaterWiggler
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display: CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display: Initial Dir: C:\Program Files\Epic Games\UE_4.15
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display: Env CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display: BranchPath = EGDWS_MA_37/C/Program Files/Epic Games/UE_4.15/Engine/Binaries --- GameBranchPath = EGDWS_MA_37/C/Program Files/Epic Games/UE_4.15/Engine/Binaries
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Camper\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.07.20-02.37.08:976][930]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.07.20-02.43.53:289][536]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.20-02.43.54:146][554]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.20-02.43.54:900][570]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.20-02.44.19:170][177]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.07.20-02.45.15:996][543]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.20-02.45.26:920][807]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:924][807]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:931][808]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:936][808]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:946][809]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:951][809]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:963][810]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:968][810]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:980][811]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:984][811]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.26:997][812]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:002][812]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:013][813]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:017][813]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:028][814]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:031][814]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:035][814]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:047][815]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:052][815]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:063][816]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:068][816]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:080][817]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:084][817]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:096][818]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:101][818]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:113][819]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:117][819]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:131][820]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:134][820]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:147][821]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:150][821]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:163][822]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:167][822]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:181][823]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:186][823]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:196][824]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:200][824]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:213][825]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:217][825]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:230][826]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:233][826]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:246][827]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:251][827]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:263][828]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:266][828]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:280][829]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:284][829]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:297][830]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:300][830]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:313][831]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:317][831]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:331][832]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:334][832]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:347][833]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:350][833]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:363][834]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:367][834]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:380][835]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:384][835]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:397][836]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:401][836]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:413][837]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:417][837]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:430][838]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:434][838]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:446][839]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:450][839]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:461][840]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:464][840]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:468][840]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:480][841]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:484][841]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:496][842]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:501][842]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:513][843]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:517][843]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:530][844]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:534][844]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:547][845]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:551][845]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:564][846]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:567][846]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:580][847]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:584][847]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:597][848]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:601][848]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:613][849]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:617][849]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:630][850]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:634][850]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:646][851]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:650][851]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:663][852]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:667][852]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:680][853]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:683][853]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:696][854]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:700][854]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:713][855]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:717][855]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:730][856]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:733][856]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:746][857]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:750][857]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:763][858]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:767][858]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:780][859]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:784][859]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:797][860]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:801][860]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:813][861]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:817][861]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:830][862]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:834][862]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:846][863]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:850][863]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:864][864]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:867][864]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:880][865]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:884][865]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:896][866]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:901][866]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:914][867]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:918][867]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.45.27:928][868]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.07.20-02.46.49:899][287]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-02.46.49:915][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-02.46.49:916][287]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 6:46:49 PM)
+[2017.07.20-02.46.49:916][287]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-02.46.49:927][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011256s)
+[2017.07.20-02.46.49:928][287]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-02.46.49:928][287]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2017.07.20-02.46.49:928][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.012520s)
+[2017.07.20-02.46.50:001][287]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-02.46.50:016][287]LogInit: FAudioDevice initialized.
+[2017.07.20-02.46.50:052][287]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-02.46.50:059][287]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-02.46.50:059][287]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-22.46.50
+[2017.07.20-02.46.50:060][287]LogWorld: Bringing up level for play took: 0.004358
+[2017.07.20-02.46.50:061][287]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-02.46.50:061][287]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-02.46.50:062][287]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.052
+[2017.07.20-02.46.52:488][361]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-02.46.54:540][415]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-02.46.54:540][415]Can't find target actor or component.
+[2017.07.20-02.46.57:334][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-02.48.59:687][686]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-02.48.59:687][686]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-02.50.10:654][ 42]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.20-02.50.11:155][ 48]LogSavePackage: Save=27.70ms
+[2017.07.20-02.50.11:155][ 48]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintF00FE78C4D4F1676B7D7C183FEF0976E.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.20-02.50.11:164][ 48]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.20-02.50.14:789][ 78]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-02.50.14:805][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-02.50.14:805][ 78]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 6:50:14 PM)
+[2017.07.20-02.50.14:805][ 78]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-02.50.14:816][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010868s)
+[2017.07.20-02.50.14:817][ 78]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-02.50.14:817][ 78]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2017.07.20-02.50.14:817][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.011790s)
+[2017.07.20-02.50.14:854][ 78]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-02.50.14:867][ 78]LogInit: FAudioDevice initialized.
+[2017.07.20-02.50.14:899][ 78]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-02.50.14:906][ 78]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-02.50.14:907][ 78]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-22.50.14
+[2017.07.20-02.50.14:908][ 78]LogWorld: Bringing up level for play took: 0.004161
+[2017.07.20-02.50.14:909][ 78]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-02.50.14:909][ 78]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-02.50.14:910][ 78]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map 0.795
+[2017.07.20-02.50.18:958][179]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-02.50.48:822][676]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.20-02.50.49:438][683]LogSavePackage: Save=30.97ms
+[2017.07.20-02.50.49:438][683]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint5D6F83B54E3112DCC44B9B9C586C41CA.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.20-02.50.49:445][683]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.20-02.50.56:529][807]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-02.50.56:544][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-02.50.56:544][807]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 6:50:56 PM)
+[2017.07.20-02.50.56:544][807]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-02.50.56:554][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009874s)
+[2017.07.20-02.50.56:554][807]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-02.50.56:555][807]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2017.07.20-02.50.56:555][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.010802s)
+[2017.07.20-02.50.56:593][807]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-02.50.56:606][807]LogInit: FAudioDevice initialized.
+[2017.07.20-02.50.56:637][807]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-02.50.56:645][807]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-02.50.56:645][807]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-22.50.56
+[2017.07.20-02.50.56:646][807]LogWorld: Bringing up level for play took: 0.004480
+[2017.07.20-02.50.56:648][807]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-02.50.56:648][807]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-02.50.56:649][807]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map 0.533
+[2017.07.20-02.51.00:142][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-02.53.09:878][573]LogSavePackage: Save=133.39ms
+[2017.07.20-02.53.09:878][573]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Prototype_map91DBA60A451B1ABE2C58A292D5036ABF.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/Prototype_map.umap'
+[2017.07.20-02.53.09:886][573]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/Prototype_map.umap
+[2017.07.20-02.53.53:900][843]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-02.53.53:900][843]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.03.25:956][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Prototype_map' took 0.027
+[2017.07.20-03.03.25:961][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PathPoint_Blueprint] ([1] browsable assets)...
+[2017.07.20-03.03.25:988][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PathPoint_Blueprint.PathPoint_Blueprint]
+[2017.07.20-03.03.25:988][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PathPoint_Blueprint]
+[2017.07.20-03.03.26:036][826]LogSavePackage: Save=31.82ms
+[2017.07.20-03.03.26:036][826]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint_Auto421AEEBDF4CF83058015155AF3DC2B6B5.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Blueprints/PathPoint_Blueprint_Auto4.uasset'
+[2017.07.20-03.03.26:040][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Blueprints/PathPoint_Blueprint_Auto4.uasset
+[2017.07.20-03.03.26:043][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint] ([1] browsable assets)...
+[2017.07.20-03.03.26:070][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint]
+[2017.07.20-03.03.26:070][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint]
+[2017.07.20-03.03.26:188][826]LogSavePackage: Save=100.04ms
+[2017.07.20-03.03.26:188][826]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint_Auto4BB18E9424FB494EBAA419BAED6923394.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto4.uasset'
+[2017.07.20-03.03.26:191][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto4.uasset
+[2017.07.20-03.03.26:191][826]LogFileHelpers: Auto-saving content packages took 0.234
+[2017.07.20-03.04.29:318][821]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.20-03.04.29:504][821]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.04.29:504][821]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.04.29:506][821]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.04.29:506][821]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.04.29:507][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.04.29:508][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.04.29:508][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.04.29:984][828]LogSavePackage: Save=104.46ms
+[2017.07.20-03.04.29:984][828]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintC2C187154BA4D5D5C12AA791C142335F.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.20-03.04.29:992][828]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.20-03.06.22:963][980]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.20-03.06.23:151][980]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.06.23:151][980]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.06.23:152][980]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.06.23:152][980]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.06.23:154][980]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.06.23:154][980]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.06.23:155][980]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.06.23:608][986]LogSavePackage: Save=100.28ms
+[2017.07.20-03.06.23:608][986]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintD030410242DA1BAB4D05769714EEAA8B.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.20-03.06.23:615][986]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.20-03.06.26:043][ 46]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.20-03.06.26:557][ 54]LogSavePackage: Save=29.69ms
+[2017.07.20-03.06.26:557][ 54]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_BlueprintAB6F64004BB32677128AADB1F6CB7E2A.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.20-03.06.26:565][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.20-03.06.29:832][138]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-03.06.29:847][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-03.06.29:847][138]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 7:06:29 PM)
+[2017.07.20-03.06.29:847][138]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-03.06.29:859][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011763s)
+[2017.07.20-03.06.29:860][138]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-03.06.29:860][138]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2017.07.20-03.06.29:860][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.013104s)
+[2017.07.20-03.06.29:885][138]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-03.06.29:899][138]LogInit: FAudioDevice initialized.
+[2017.07.20-03.06.29:933][138]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-03.06.29:940][138]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-03.06.29:941][138]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-23.06.29
+[2017.07.20-03.06.29:942][138]LogWorld: Bringing up level for play took: 0.004752
+[2017.07.20-03.06.29:943][138]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-03.06.29:943][138]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-03.06.29:945][138]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.17
+[2017.07.20-03.06.34:485][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-03.07.38:712][697]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2017.07.20-03.07.38:901][697]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.07.38:901][697]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.07.38:903][697]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.07.38:903][697]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.07.38:904][697]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.07.38:904][697]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.07.38:904][697]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.07.39:443][705]LogSavePackage: Save=99.37ms
+[2017.07.20-03.07.39:443][705]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintB9243F99427A05B6328FE8BA091E12EE.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2017.07.20-03.07.39:451][705]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2017.07.20-03.07.41:895][763]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-03.07.41:911][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-03.07.41:912][763]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 7:07:41 PM)
+[2017.07.20-03.07.41:912][763]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-03.07.41:926][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014336s)
+[2017.07.20-03.07.41:927][763]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-03.07.41:927][763]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.07.20-03.07.41:927][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.015430s)
+[2017.07.20-03.07.41:947][763]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-03.07.41:960][763]LogInit: FAudioDevice initialized.
+[2017.07.20-03.07.41:994][763]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-03.07.42:002][763]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-03.07.42:003][763]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-23.07.42
+[2017.07.20-03.07.42:004][763]LogWorld: Bringing up level for play took: 0.004315
+[2017.07.20-03.07.42:005][763]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-03.07.42:005][763]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-03.07.42:006][763]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.109
+[2017.07.20-03.07.46:562][897]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-03.09.35:638][351]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.20-03.09.36:117][356]LogSavePackage: Save=36.05ms
+[2017.07.20-03.09.36:117][356]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint70A313C64232DCB5D803CDBA24A46ECD.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.20-03.09.36:124][356]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.20-03.09.38:399][410]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-03.09.38:419][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-03.09.38:420][410]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 7:09:38 PM)
+[2017.07.20-03.09.38:420][410]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-03.09.38:432][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012800s)
+[2017.07.20-03.09.38:434][410]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-03.09.38:434][410]LogPlayLevel: PIE: World Init took: (0.001962s)
+[2017.07.20-03.09.38:435][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.015113s)
+[2017.07.20-03.09.38:460][410]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-03.09.38:473][410]LogInit: FAudioDevice initialized.
+[2017.07.20-03.09.38:505][410]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-03.09.38:512][410]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-03.09.38:512][410]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-23.09.38
+[2017.07.20-03.09.38:514][410]LogWorld: Bringing up level for play took: 0.004758
+[2017.07.20-03.09.38:515][410]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-03.09.38:515][410]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-03.09.38:516][410]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map 0.401
+[2017.07.20-03.09.41:231][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-03.09.46:201][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-03.12.31:415][ 54]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.12.31:415][ 54]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_9:PersistentLevel.Worm_Blueprint_C_1
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.13.03:661][577]BlueprintLog: New page: Compile PathPoint_Blueprint
+[2017.07.20-03.13.04:316][585]LogSavePackage: Save=31.08ms
+[2017.07.20-03.13.04:316][585]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/PathPoint_Blueprint908A72E3467C964E634AFDBBC2B13C84.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset'
+[2017.07.20-03.13.04:354][585]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/PathPoint_Blueprint.uasset
+[2017.07.20-03.13.05:495][607]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.20-03.13.05:511][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.20-03.13.05:511][607]PIE: New page: PIE session: Prototype_map (Jul 19, 2017, 7:13:05 PM)
+[2017.07.20-03.13.05:511][607]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Prototype_map
+[2017.07.20-03.13.05:521][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009905s)
+[2017.07.20-03.13.05:522][607]LogAIModule: Creating AISystem for world Prototype_map
+[2017.07.20-03.13.05:522][607]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2017.07.20-03.13.05:522][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Prototype_map.Prototype_map to /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map (0.010830s)
+[2017.07.20-03.13.05:556][607]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.20-03.13.05:570][607]LogInit: FAudioDevice initialized.
+[2017.07.20-03.13.05:599][607]LogLoad: Game class is 'VehicleGameMode_C'
+[2017.07.20-03.13.05:609][607]LogVehicles:Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map:PersistentLevel.ChrisCraft_Blueprint_1601.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2017.07.20-03.13.05:610][607]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Prototype_map.Prototype_map up for play (max tick rate 60) at 2017.07.19-23.13.05
+[2017.07.20-03.13.05:611][607]LogWorld: Bringing up level for play took: 0.006960
+[2017.07.20-03.13.05:612][607]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3778.114 Y=11.400 Z=181.593] for [Worm_Blueprint_C]
+[2017.07.20-03.13.05:612][607]LogGameMode:Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Worm_Blueprint_C at Rotation: 0.000000 -0.000000 0.753476 0.657476
+Translation: 7908.068359 -21842.097656 195.805893
+Scale3D: 1.000000 1.000000 1.000000
+
+[2017.07.20-03.13.05:613][607]PIE: Info Play in editor start time for /Game/Scenes/UEDPIE_0_Prototype_map -0.502
+[2017.07.20-03.13.10:179][740]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.07.20-03.15.03:007][734]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.15.06:535][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.07.20-03.15.07:411][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.07.20-03.20.13:582][784]LogSavePackage: Save=210.63ms
+[2017.07.20-03.20.13:582][784]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Prototype_map_Auto51BF8217B49E871DCA7DA0F9C597B472C.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/Prototype_map_Auto5.umap'
+[2017.07.20-03.20.13:586][784]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/Prototype_map_Auto5.umap
+[2017.07.20-03.20.13:589][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Prototype_map' took 0.280
+[2017.07.20-03.20.13:589][784]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.280
+[2017.07.20-03.20.13:594][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Worm_Controller] ([1] browsable assets)...
+[2017.07.20-03.20.13:594][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Worm_Controller]
+[2017.07.20-03.20.13:622][784]LogSavePackage: Save=10.58ms
+[2017.07.20-03.20.13:622][784]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Controller_Auto54D075DA3415169C971BF539F8454018E.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Blueprints/Worm_Controller_Auto5.uasset'
+[2017.07.20-03.20.13:638][784]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Blueprints/Worm_Controller_Auto5.uasset
+[2017.07.20-03.20.13:638][784]LogFileHelpers: Auto-saving content packages took 0.048
+[2017.07.20-03.21.43:728][218]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.21.48:075][385]LogEditorTransaction: Undo Add Node
+[2017.07.20-03.21.48:078][385]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.21.52:946][649]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.33:279][866]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.35:080][907]BlueprintLog: New page: Compile Worm_Controller
+[2017.07.20-03.23.35:087][907]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.35:189][907]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.35:714][919]LogSavePackage: Save=10.63ms
+[2017.07.20-03.23.35:714][919]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_ControllerC80525C445C25DB8EB539B93ACFC9376.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Controller.uasset'
+[2017.07.20-03.23.35:722][919]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Controller.uasset
+[2017.07.20-03.23.37:007][949]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.07.20-03.23.38:788][974]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.38:788][974]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.23.52:437][625]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.52:437][625]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.23.52:438][625]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.52:438][625]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.23.52:440][625]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.23.52:441][625]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.23.52:443][625]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.23.57:173][854]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.57:173][854]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.23.57:174][854]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.23.57:174][854]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.23.57:176][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.23.57:177][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.23.57:177][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.24.02:936][114]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.24.02:936][114]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.24.02:938][114]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.24.02:938][114]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.24.02:939][114]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.24.02:940][114]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.24.02:940][114]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:009][936]BlueprintLog: New page: Compile Worm_Blueprint
+[2017.07.20-03.25.30:052][936]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.25.30:052][936]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.25.30:054][936]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.25.30:054][936]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.25.30:055][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:056][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:057][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:168][936]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.25.30:168][936]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_0:PersistentLevel.Worm_Blueprint_C_0
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.25.30:170][936]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.07.20-03.25.30:170][936]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_14:PersistentLevel.Worm_Blueprint_C_82
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2017.07.20-03.25.30:172][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:173][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:173][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: worm_char
+[2017.07.20-03.25.30:823][949]LogSavePackage: Save=31.56ms
+[2017.07.20-03.25.30:823][949]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint8E6AA4EC44DFBF7B5FA11AA1D9CC80D0.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2017.07.20-03.25.30:843][949]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2017.07.20-03.25.37:925][996]LogSavePackage: Save=146.22ms
+[2017.07.20-03.25.37:925][996]LogSavePackage: Moving '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Prototype_map3A7859A64E36F3086E4073A80A75D5D6.tmp' to '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/Prototype_map.umap'
+[2017.07.20-03.25.37:948][996]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/Prototype_map.umap
+[2017.07.20-03.25.38:703][996]LogSlate: Took 0.007274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.07.20-03.25.38:715][996]LogFileHelpers: Saving map 'Prototype_map' took 4.517
+[2017.07.20-03.25.38:926][996]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.07.20-03.25.39:209][997]Cmd: QUIT_EDITOR
+[2017.07.20-03.25.39:672][997]LogExit: Preparing to exit.
+[2017.07.20-03.25.40:265][997]LogDirectoryWatcher: A directory notification for 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/' was aborted.
+[2017.07.20-03.25.40:422][997]LogExit: Editor shut down
+[2017.07.20-03.25.40:422][997]LogExit: Transaction tracking system shut down
+[2017.07.20-03.25.41:791][997]LogObj: Freed 0b from 0 cluster array pools.
+[2017.07.20-03.25.41:791][997]LogExit: Object subsystem successfully closed.
+[2017.07.20-03.25.41:993][997]LogD3D11RHI: Shutdown
+[2017.07.20-03.25.41:993][997]LogD3D11RHI: CleanupD3DDevice
+[2017.07.20-03.25.42:214][997]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.07.20-03.25.42:857][997]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (508)
+[2017.07.20-03.25.42:857][997]LogModuleManager: Shutting down and abandoning module BlueprintGraph (506)
+[2017.07.20-03.25.42:857][997]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (504)
+[2017.07.20-03.25.42:878][997]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (502)
+[2017.07.20-03.25.42:878][997]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (500)
+[2017.07.20-03.25.42:892][997]LogModuleManager: Shutting down and abandoning module CrashTracker (498)
+[2017.07.20-03.25.42:892][997]LogModuleManager: Shutting down and abandoning module SceneOutliner (496)
+[2017.07.20-03.25.42:892][997]LogModuleManager: Shutting down and abandoning module AddContentDialog (494)
+[2017.07.20-03.25.42:921][997]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.15/FeaturePacks/' was aborted.
+[2017.07.20-03.25.42:930][997]LogModuleManager: Shutting down and abandoning module WidgetCarousel (493)
+[2017.07.20-03.25.42:930][997]LogModuleManager: Shutting down and abandoning module EditorWidgets (490)
+[2017.07.20-03.25.42:930][997]LogModuleManager: Shutting down and abandoning module CollectionManager (488)
+[2017.07.20-03.25.42:941][997]LogDirectoryWatcher: A directory notification for 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Collections/' was aborted.
+[2017.07.20-03.25.42:941][997]LogDirectoryWatcher: A directory notification for 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Developers/Camper/Collections/' was aborted.
+[2017.07.20-03.25.42:941][997]LogDirectoryWatcher: A directory notification for 'C:/Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Collections/' was aborted.
+[2017.07.20-03.25.42:941][997]LogModuleManager: Shutting down and abandoning module StatsViewer (486)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module FoliageEdit (484)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module LandscapeEditor (482)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (480)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module ActorPickerMode (478)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module GeometryMode (476)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module TextureAlignMode (474)
+[2017.07.20-03.25.42:949][997]LogModuleManager: Shutting down and abandoning module BspMode (472)
+[2017.07.20-03.25.42:968][997]LogModuleManager: Shutting down and abandoning module HardwareSurvey (470)
+[2017.07.20-03.25.42:983][997]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (468)
+[2017.07.20-03.25.42:992][997]LogModuleManager: Shutting down and abandoning module AutomationWorker (466)
+[2017.07.20-03.25.42:998][997]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (464)
+[2017.07.20-03.25.43:018][997]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (462)
+[2017.07.20-03.25.43:063][997]LogModuleManager: Shutting down and abandoning module PlacementMode (461)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (458)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (456)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module MfMediaFactory (454)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module MfMediaEditor (452)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (450)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (448)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (446)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module Media (445)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (442)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module CharacterAI (440)
+[2017.07.20-03.25.43:064][997]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
+[2017.07.20-03.25.43:069][997]LogModuleManager: Shutting down and abandoning module SequenceRecorder (437)
+[2017.07.20-03.25.43:141][997]LogModuleManager: Shutting down and abandoning module SmartSnapping (434)
+[2017.07.20-03.25.43:141][997]LogModuleManager: Shutting down and abandoning module SessionServices (432)
+[2017.07.20-03.25.43:141][997]LogModuleManager: Shutting down and abandoning module ViewportSnapping (430)
+[2017.07.20-03.25.43:141][997]LogModuleManager: Shutting down and abandoning module ViewportInteraction (428)
+[2017.07.20-03.25.43:141][997]LogModuleManager: Shutting down and abandoning module LogVisualizer (426)
+[2017.07.20-03.25.43:156][997]LogModuleManager: Shutting down and abandoning module IntroTutorials (424)
+[2017.07.20-03.25.43:165][997]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (423)
+[2017.07.20-03.25.43:178][997]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (420)
+[2017.07.20-03.25.43:178][997]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (418)
+[2017.07.20-03.25.43:178][997]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (416)
+[2017.07.20-03.25.43:178][997]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (414)
+[2017.07.20-03.25.43:178][997]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (413)
+[2017.07.20-03.25.44:124][997]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (410)
+[2017.07.20-03.25.44:124][997]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (408)
+[2017.07.20-03.25.44:124][997]LogModuleManager: Shutting down and abandoning module InputBindingEditor (406)
+[2017.07.20-03.25.44:133][997]LogModuleManager: Shutting down and abandoning module NiagaraEditor (404)
+[2017.07.20-03.25.44:161][997]LogModuleManager: Shutting down and abandoning module MergeActors (402)
+[2017.07.20-03.25.44:164][997]LogModuleManager: Shutting down and abandoning module SizeMap (400)
+[2017.07.20-03.25.44:167][997]LogModuleManager: Shutting down and abandoning module TreeMap (398)
+[2017.07.20-03.25.44:180][997]LogModuleManager: Shutting down and abandoning module ReferenceViewer (396)
+[2017.07.20-03.25.44:180][997]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (394)
+[2017.07.20-03.25.44:194][997]LogModuleManager: Shutting down and abandoning module LocalizationService (393)
+[2017.07.20-03.25.44:197][997]LogModuleManager: Shutting down and abandoning module HardwareTargeting (390)
+[2017.07.20-03.25.44:197][997]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (388)
+[2017.07.20-03.25.44:200][997]LogModuleManager: Shutting down and abandoning module UndoHistory (386)
+[2017.07.20-03.25.44:205][997]LogModuleManager: Shutting down and abandoning module UserFeedback (384)
+[2017.07.20-03.25.44:205][997]LogModuleManager: Shutting down and abandoning module XmlParser (382)
+[2017.07.20-03.25.44:209][997]LogModuleManager: Shutting down and abandoning module Blutility (380)
+[2017.07.20-03.25.44:214][997]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (378)
+[2017.07.20-03.25.44:215][997]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (377)
+[2017.07.20-03.25.44:215][997]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (374)
+[2017.07.20-03.25.44:215][997]LogModuleManager: Shutting down and abandoning module SettingsEditor (372)
+[2017.07.20-03.25.44:215][997]LogModuleManager: Shutting down and abandoning module ProjectLauncher (370)
+[2017.07.20-03.25.44:223][997]LogModuleManager: Shutting down and abandoning module SessionFrontend (368)
+[2017.07.20-03.25.44:241][997]LogModuleManager: Shutting down and abandoning module ProfilerClient (366)
+[2017.07.20-03.25.44:245][997]LogModuleManager: Shutting down and abandoning module DeviceManager (364)
+[2017.07.20-03.25.44:256][997]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (363)
+[2017.07.20-03.25.44:300][997]LogModuleManager: Shutting down and abandoning module AutomationController (360)
+[2017.07.20-03.25.44:315][997]LogModuleManager: Shutting down and abandoning module AutomationWindow (358)
+[2017.07.20-03.25.44:331][997]LogModuleManager: Shutting down and abandoning module Layers (356)
+[2017.07.20-03.25.44:350][997]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (354)
+[2017.07.20-03.25.44:350][997]LogModuleManager: Shutting down and abandoning module DetailCustomizations (352)
+[2017.07.20-03.25.44:367][997]LogModuleManager: Shutting down and abandoning module PackagesDialog (350)
+[2017.07.20-03.25.44:367][997]LogModuleManager: Shutting down and abandoning module Persona (348)
+[2017.07.20-03.25.44:407][997]LogModuleManager: Shutting down and abandoning module AnimGraph (347)
+[2017.07.20-03.25.44:407][997]LogModuleManager: Shutting down and abandoning module Kismet (344)
+[2017.07.20-03.25.44:422][997]LogModuleManager: Shutting down and abandoning module GraphEditor (342)
+[2017.07.20-03.25.44:422][997]LogModuleManager: Shutting down and abandoning module ClassViewer (340)
+[2017.07.20-03.25.44:422][997]LogModuleManager: Shutting down and abandoning module Toolbox (338)
+[2017.07.20-03.25.44:441][997]LogModuleManager: Shutting down and abandoning module ModuleUI (336)
+[2017.07.20-03.25.44:485][997]LogModuleManager: Shutting down and abandoning module MovieSceneTools (334)
+[2017.07.20-03.25.44:499][997]LogModuleManager: Shutting down and abandoning module OutputLog (332)
+[2017.07.20-03.25.44:505][997]LogModuleManager: Shutting down and abandoning module GammaUI (330)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module Documentation (328)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module Niagara (326)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (324)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module AnalyticsET (322)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module PortalServices (320)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module PortalRpc (318)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module MessagingRpc (316)
+[2017.07.20-03.25.44:515][997]LogModuleManager: Shutting down and abandoning module AIModule (314)
+[2017.07.20-03.25.44:524][997]LogModuleManager: Shutting down and abandoning module GameplayDebugger (313)
+[2017.07.20-03.25.44:524][997]LogModuleManager: Shutting down and abandoning module AITestSuite (311)
+[2017.07.20-03.25.44:524][997]LogModuleManager: Shutting down and abandoning module ProfilerService (308)
+[2017.07.20-03.25.44:707][997]LogModuleManager: Shutting down and abandoning module TaskGraph (306)
+[2017.07.20-03.25.44:720][997]LogModuleManager: Shutting down and abandoning module SteamVRController (304)
+[2017.07.20-03.25.44:720][997]LogModuleManager: Shutting down and abandoning module SteamVR (302)
+[2017.07.20-03.25.44:720][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (300)
+[2017.07.20-03.25.44:720][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (298)
+[2017.07.20-03.25.44:734][997]LogModuleManager: Shutting down and abandoning module OculusLibrary (296)
+[2017.07.20-03.25.44:734][997]LogModuleManager: Shutting down and abandoning module OculusInput (294)
+[2017.07.20-03.25.44:734][997]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (292)
+[2017.07.20-03.25.44:734][997]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (290)
+[2017.07.20-03.25.44:734][997]LogModuleManager: Shutting down and abandoning module CableComponent (288)
+[2017.07.20-03.25.44:739][997]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (286)
+[2017.07.20-03.25.44:739][997]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (282)
+[2017.07.20-03.25.44:754][997]LogModuleManager: Shutting down and abandoning module RawInput (280)
+[2017.07.20-03.25.44:755][997]LogModuleManager: Shutting down and abandoning module HTML5Networking (278)
+[2017.07.20-03.25.44:755][997]LogModuleManager: Shutting down and abandoning module AlembicImporter (276)
+[2017.07.20-03.25.44:765][997]LogModuleManager: Shutting down and abandoning module AlembicLibrary (275)
+[2017.07.20-03.25.44:765][997]LogModuleManager: Shutting down and abandoning module GeometryCache (274)
+[2017.07.20-03.25.44:776][997]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (273)
+[2017.07.20-03.25.44:776][997]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (268)
+[2017.07.20-03.25.44:776][997]LogModuleManager: Shutting down and abandoning module SuperSearch (267)
+[2017.07.20-03.25.44:776][997]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (264)
+[2017.07.20-03.25.44:776][997]LogModuleManager: Shutting down and abandoning module PluginBrowser (262)
+[2017.07.20-03.25.44:790][997]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (260)
+[2017.07.20-03.25.44:797][997]LogModuleManager: Shutting down and abandoning module EpicSurvey (258)
+[2017.07.20-03.25.44:797][997]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (256)
+[2017.07.20-03.25.44:801][997]LogModuleManager: Shutting down and abandoning module DesktopPlatform (255)
+[2017.07.20-03.25.44:801][997]LogModuleManager: Shutting down and abandoning module UObjectPlugin (252)
+[2017.07.20-03.25.44:801][997]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (250)
+[2017.07.20-03.25.44:806][997]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (248)
+[2017.07.20-03.25.44:811][997]LogModuleManager: Shutting down and abandoning module GitSourceControl (246)
+[2017.07.20-03.25.44:820][997]LogModuleManager: Shutting down and abandoning module SourceControl (245)
+[2017.07.20-03.25.44:826][997]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (242)
+[2017.07.20-03.25.44:826][997]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (240)
+[2017.07.20-03.25.44:826][997]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (238)
+[2017.07.20-03.25.44:826][997]LogModuleManager: Shutting down and abandoning module Paper2DEditor (236)
+[2017.07.20-03.25.44:840][997]LogModuleManager: Shutting down and abandoning module MeshPaint (235)
+[2017.07.20-03.25.44:840][997]LogModuleManager: Shutting down and abandoning module LevelEditor (233)
+[2017.07.20-03.25.44:856][997]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (232)
+[2017.07.20-03.25.44:870][997]LogModuleManager: Shutting down and abandoning module MainFrame (230)
+[2017.07.20-03.25.44:870][997]LogModuleManager: Shutting down and abandoning module HotReload (229)
+[2017.07.20-03.25.44:892][997]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2017.07.20-03.25.44:893][997]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (222)
+[2017.07.20-03.25.44:904][997]LogModuleManager: Shutting down and abandoning module PhysXVehicles (220)
+[2017.07.20-03.25.44:904][997]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (218)
+[2017.07.20-03.25.44:904][997]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2017.07.20-03.25.45:006][997]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2017.07.20-03.25.45:117][997]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2017.07.20-03.25.45:125][997]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (210)
+[2017.07.20-03.25.45:129][997]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2017.07.20-03.25.45:129][997]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (206)
+[2017.07.20-03.25.45:129][997]LogModuleManager: Shutting down and abandoning module Paper2D (204)
+[2017.07.20-03.25.45:136][997]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (202)
+[2017.07.20-03.25.45:138][997]LogModuleManager: Shutting down and abandoning module WmfMedia (200)
+[2017.07.20-03.25.45:144][997]LogModuleManager: Shutting down and abandoning module MfMedia (198)
+[2017.07.20-03.25.45:144][997]LogModuleManager: Shutting down and abandoning module MediaAssets (196)
+[2017.07.20-03.25.45:144][997]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (194)
+[2017.07.20-03.25.45:155][997]LogModuleManager: Shutting down and abandoning module VREditor (192)
+[2017.07.20-03.25.45:155][997]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (190)
+[2017.07.20-03.25.45:155][997]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (188)
+[2017.07.20-03.25.45:180][997]LogModuleManager: Shutting down and abandoning module FunctionalTesting (186)
+[2017.07.20-03.25.45:180][997]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (184)
+[2017.07.20-03.25.45:187][997]LogModuleManager: Shutting down and abandoning module UMG (182)
+[2017.07.20-03.25.45:205][997]LogModuleManager: Shutting down and abandoning module UMGEditor (181)
+[2017.07.20-03.25.45:233][997]LogModuleManager: Shutting down and abandoning module Sequencer (180)
+[2017.07.20-03.25.45:270][997]LogModuleManager: Shutting down and abandoning module AssetTools (178)
+[2017.07.20-03.25.45:290][997]LogModuleManager: Shutting down and abandoning module MessageLog (177)
+[2017.07.20-03.25.45:290][997]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (176)
+[2017.07.20-03.25.45:290][997]LogModuleManager: Shutting down and abandoning module SlateReflector (170)
+[2017.07.20-03.25.45:322][997]LogModuleManager: Shutting down and abandoning module Slate (168)
+[2017.07.20-03.25.45:322][997]LogModuleManager: Shutting down and abandoning module EditorStyle (166)
+[2017.07.20-03.25.45:325][997]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2017.07.20-03.25.45:334][997]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2017.07.20-03.25.45:334][997]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2017.07.20-03.25.45:335][997]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2017.07.20-03.25.45:335][997]LogModuleManager: Shutting down and abandoning module Core (154)
+[2017.07.20-03.25.45:335][997]LogModuleManager: Shutting down and abandoning module AssetRegistry (152)
+[2017.07.20-03.25.45:564][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.07.20-03.25.45:564][997]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/' was aborted.
+[2017.07.20-03.25.45:564][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.07.20-03.25.45:588][997]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2017.07.20-03.25.45:589][997]LogModuleManager: Shutting down and abandoning module KismetCompiler (148)
+[2017.07.20-03.25.45:589][997]LogModuleManager: Shutting down and abandoning module PhysXFormats (146)
+[2017.07.20-03.25.45:589][997]LogModuleManager: Shutting down and abandoning module MeshUtilities (144)
+[2017.07.20-03.25.45:592][997]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (143)
+[2017.07.20-03.25.45:603][997]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2017.07.20-03.25.45:603][997]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2017.07.20-03.25.45:609][997]LogModuleManager: Shutting down and abandoning module PropertyEditor (137)
+[2017.07.20-03.25.45:609][997]LogModuleManager: Shutting down and abandoning module DerivedDataCache (134)
+[2017.07.20-03.25.45:615][997]LogDerivedDataCache: Shutdown
+[2017.07.20-03.25.45:615][997]LogModuleManager: Shutting down and abandoning module TargetPlatform (132)
+[2017.07.20-03.25.45:615][997]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (131)
+[2017.07.20-03.25.45:628][997]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (129)
+[2017.07.20-03.25.45:637][997]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (127)
+[2017.07.20-03.25.45:637][997]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (125)
+[2017.07.20-03.25.45:650][997]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (123)
+[2017.07.20-03.25.45:650][997]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (121)
+[2017.07.20-03.25.45:650][997]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (119)
+[2017.07.20-03.25.45:655][997]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (117)
+[2017.07.20-03.25.45:683][997]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (115)
+[2017.07.20-03.25.45:683][997]LogModuleManager: Shutting down and abandoning module ImageWrapper (114)
+[2017.07.20-03.25.45:683][997]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (111)
+[2017.07.20-03.25.45:683][997]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (109)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (107)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (105)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (103)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (101)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (99)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (97)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (95)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Messaging (93)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (91)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (89)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (87)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (85)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (83)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (81)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (79)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (77)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (75)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (73)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (71)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (69)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (67)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (65)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (63)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (61)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (59)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (57)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (55)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module Settings (50)
+[2017.07.20-03.25.45:690][997]LogModuleManager: Shutting down and abandoning module OculusRift (48)
+[2017.07.20-03.25.45:700][997]LogModuleManager: Shutting down and abandoning module GearVR (46)
+[2017.07.20-03.25.45:700][997]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2017.07.20-03.25.45:700][997]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (42)
+[2017.07.20-03.25.45:700][997]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2017.07.20-03.25.45:700][997]LogOnline:Display: Unloading online subsystem: NULL
+[2017.07.20-03.25.45:737][997]LogModuleManager: Shutting down and abandoning module XMPP (37)
+[2017.07.20-03.25.45:752][997]LogModuleManager: Shutting down and abandoning module HTTP (35)
+[2017.07.20-03.25.45:762][997]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.07.20-03.25.45:762][997]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD03E1509-441F-4029-13EE-BDBEFD383055%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.15.3-3450819%2B%2B%2BUE4%2BRelease-4.15&UserID=cb03359b402e97089a818485821d9df5%7C430d55f15c0846bbb4bf413580f74b31%7C1ff1b01f-1d35-47d8-b799-dbda82573b2d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.07.20-03.25.45:779][997]LogModuleManager: Shutting down and abandoning module SSL (34)
+[2017.07.20-03.25.45:800][997]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.07.20-03.25.45:814][997]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.07.20-03.25.45:820][997]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.07.20-03.25.45:820][997]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.07.20-03.25.45:820][997]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.07.20-03.25.45:833][997]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.07.20-03.25.45:855][997]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.07.20-03.25.45:855][997]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.07.20-03.25.45:863][997]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.07.20-03.25.45:863][997]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.07.20-03.25.45:863][997]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.07.20-03.25.45:863][997]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.07.20-03.25.45:869][997]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.07.20-03.25.45:877][997]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.07.20-03.25.45:877][997]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.07.20-03.25.45:909][997]LogExit: Exiting.
+[2017.07.20-03.25.45:911][997]Log file closed, 07/19/17 23:25:45
