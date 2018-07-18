@@ -23624,3 +23624,1150 @@ Make sure 'track_BP_C' has been compiled for  Choose Timeline
 [2018.07.18-21.27.04:137][959]LogSavePackage: Save=13.85ms
 [2018.07.18-21.27.04:137][959]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/defined_map_BuiltData5EC8D1CD457952DF8644AAAB95CB91A8.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/defined_map_BuiltData.uasset'
 [2018.07.18-21.27.04:141][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Scenes/defined_map_BuiltData.uasset
+[2018.07.18-22.11.02:215][194]LogHttp: Warning: 000002C85DAB8280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.18-22.11.02:215][194]LogHttp: Warning: 000002C85DAB8280: libcurl info message cache 0 (Connection 32 seems to be dead!)
+[2018.07.18-22.11.02:215][194]LogHttp: Warning: 000002C85DAB8280: libcurl info message cache 1 (Closing connection 32)
+[2018.07.18-22.11.02:216][194]LogHttp: Warning: 000002C85DAB8280: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.18-22.11.02:216][194]LogHttp: Warning: 000002C85DAB8280: libcurl info message cache 3 (Closing connection 33)
+[2018.07.18-22.11.40:766][762]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2018.07.18-22.13.15:246][714]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-22.13.15:246][714]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-22.13.20:113][987]LogSavePackage: Save=207.31ms
+[2018.07.18-22.13.20:114][987]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint18FD28A4429EE93365486E9DDECC36E3.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2018.07.18-22.13.20:123][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2018.07.18-22.13.24:395][236]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.18-22.14.11:542][303]BlueprintLog: New page: Compile track_BP
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8012d7270, Size=8
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70d40, Size=8, Default__track_BP_C Function /Engine/Transient.REINST_track_BP_C_695:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8012d78a0, Size=8
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8012d78c0, Size=8
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70d70, Size=8, Default__track_forward_C Function /Engine/Transient.REINST_track_forward_C_696:ExecuteUbergraph_track_forward
+[2018.07.18-22.14.11:654][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70d28, Size=8, Default__track_forward_C Function /Engine/Transient.REINST_track_BP_C_695:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:655][303]LogBlueprint: Warning: Timeline Timeline_1 Track hull_pitch in /Engine/Transient.REINST_track_left_C_697 has an invalid curve.  Please fix!
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80307d750, Size=8
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80307d768, Size=8
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70ca8, Size=8, Default__track_left_C Function /Engine/Transient.REINST_track_left_C_697:ExecuteUbergraph_track_left
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70d80, Size=8, Default__track_left_C Function /Engine/Transient.REINST_track_BP_C_695:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81668cb58, Size=8
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81668c990, Size=8
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70cc8, Size=8, Default__track_right_C Function /Engine/Transient.REINST_track_right_C_698:ExecuteUbergraph_track_right
+[2018.07.18-22.14.11:655][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c70d30, Size=8, Default__track_right_C Function /Engine/Transient.REINST_track_BP_C_695:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:665][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c71070, Size=8, Default__track_BP_C Function /Game/Maps/Procedural/track_BP.track_BP_C:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:665][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c710c0, Size=8, Default__track_forward_C Function /Game/Maps/Procedural/track_forward.track_forward_C:ExecuteUbergraph_track_forward
+[2018.07.18-22.14.11:666][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c710b0, Size=8, Default__track_forward_C Function /Game/Maps/Procedural/track_BP.track_BP_C:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:666][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c71278, Size=8, Default__track_left_C Function /Game/Maps/Procedural/track_left.track_left_C:ExecuteUbergraph_track_left
+[2018.07.18-22.14.11:666][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c71250, Size=8, Default__track_left_C Function /Game/Maps/Procedural/track_BP.track_BP_C:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.11:667][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c712b0, Size=8, Default__track_right_C Function /Game/Maps/Procedural/track_right.track_right_C:ExecuteUbergraph_track_right
+[2018.07.18-22.14.11:667][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c820c712c0, Size=8, Default__track_right_C Function /Game/Maps/Procedural/track_BP.track_BP_C:ExecuteUbergraph_track_BP
+[2018.07.18-22.14.12:297][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a632c280, Size=168
+[2018.07.18-22.14.12:387][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Procedural/track_BP" FILE="../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Maps/Procedural/track_BP.uasset" SILENT=true
+[2018.07.18-22.14.12:553][303]LogSavePackage: Save=70.78ms
+[2018.07.18-22.14.12:553][303]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/track_BP0FB8E9E04920A94AFC00D0B4BF965F63.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Maps/Procedural/track_BP.uasset'
+[2018.07.18-22.14.12:565][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Maps/Procedural/track_BP.uasset
+[2018.07.18-22.14.15:847][476]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.14.15:876][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.14.15:877][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.14.15:877][476]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:14:15 PM)
+[2018.07.18-22.14.15:877][476]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.14.15:879][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2018.07.18-22.14.15:879][476]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.14.15:880][476]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.07.18-22.14.15:880][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002644s)
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70cc8, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70d30, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70ca8, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70d80, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70d40, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70d70, Size=8
+[2018.07.18-22.14.15:900][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c820c70d28, Size=8
+[2018.07.18-22.14.15:905][476]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.14.15:918][476]LogInit: FAudioDevice initialized.
+[2018.07.18-22.14.15:956][476]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.14.15:960][476]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.14.15:960][476]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.14.15
+[2018.07.18-22.14.15:960][476]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.14.15:961][476]LogWorld: Bringing up level for play took: 0.001649
+[2018.07.18-22.14.15:961][476]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.14.15:981][476]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.133
+[2018.07.18-22.14.15:981][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.14.19:739][630]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.22:638][749]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.26:392][904]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.29:333][ 24]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.33:118][179]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.36:057][299]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.38:953][418]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.41:855][537]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.45:587][692]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.48:465][811]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.52:203][966]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.55:948][121]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.14.56:964][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.14.57:022][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.15.07:220][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.15.25:583][231]LogSkeletalMesh: Skeletal Mesh found in DDC [0.632372ms] /Game/Enemies/piranha.piranha
+[2018.07.18-22.15.25:586][231]LogMaterial: Missing cached shader map for material piranha_material, compiling. 
+[2018.07.18-22.15.25:630][231]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.07.18-22.15.25:630][231]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.07.18-22.15.25:630][231]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.07.18-22.15.25:630][231]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.07.18-22.15.25:640][231]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.18-22.15.25:647][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.18-22.15.25:654][231]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.07.18-22.15.25:715][231]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.18-22.15.26:106][231]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.07.18-22.15.26:145][232]LogRenderer: Reallocating scene render targets to support 968x672 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-22.15.28:342][287]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.07.18-22.15.28:893][300]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.07.18-22.15.29:789][318]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.18-22.15.29:789][318]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.18-22.15.31:439][367]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.18-22.15.32:885][405]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.18-22.15.44:737][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.16.43:105][218]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.16.43:105][218]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.17.23:028][ 78]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8220b1260, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.SKEL_ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.17.23:751][ 81]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.18-22.17.32:050][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8220b1260, Size=4
+[2018.07.18-22.17.32:050][455]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8220b1260, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_SKEL_ChrisCraft_Blueprint_C_705:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.17.32:063][455]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8220b1e38, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.SKEL_ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.17.32:752][458]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.18-22.17.48:086][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.18.13:548][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.18.37:095][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.19.08:150][746]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2018.07.18-22.19.08:222][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8220b1e38, Size=4
+[2018.07.18-22.19.08:222][746]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a5b8e0, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_SKEL_ChrisCraft_Blueprint_C_710:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.19.08:366][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c85d933f40, Size=168
+[2018.07.18-22.19.08:366][746]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81b9ee2c0, Size=168, Default__ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_ChrisCraft_Blueprint_C_728:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.19.08:391][746]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8108d7040, Size=168, Default__ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.19.08:897][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a5b8e0, Size=4
+[2018.07.18-22.19.08:897][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8220b1260, Size=4
+[2018.07.18-22.19.08:928][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.08:928][746]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.08:930][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.08:930][746]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.08:957][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.08:957][746]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.08:959][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.08:959][746]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.09:919][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81b9ee2c0, Size=168
+[2018.07.18-22.19.10:156][783]LogSavePackage: Save=128.20ms
+[2018.07.18-22.19.10:156][783]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/defined_map_Auto303BAE8744E903688EC098697E6171BBB.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/defined_map_Auto3.umap'
+[2018.07.18-22.19.10:160][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/defined_map_Auto3.umap
+[2018.07.18-22.19.10:164][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/defined_map' took 0.270
+[2018.07.18-22.19.10:164][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2018.07.18-22.19.10:169][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint] ([1] browsable assets)...
+[2018.07.18-22.19.10:197][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint]
+[2018.07.18-22.19.10:197][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint]
+[2018.07.18-22.19.10:523][783]LogSavePackage: Save=229.10ms
+[2018.07.18-22.19.10:523][783]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint_Auto351BB9E794A3CD44979F974A1ED42A0B1.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto3.uasset'
+[2018.07.18-22.19.10:527][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint_Auto3.uasset
+[2018.07.18-22.19.10:530][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Procedural/track_forward] ([1] browsable assets)...
+[2018.07.18-22.19.10:530][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Procedural/track_forward]
+[2018.07.18-22.19.10:638][783]LogSavePackage: Save=13.22ms
+[2018.07.18-22.19.10:638][783]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/track_forward_Auto3AE4CF89447DA0F66117CC1AE253A42BE.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Maps/Procedural/track_forward_Auto3.uasset'
+[2018.07.18-22.19.10:643][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Maps/Procedural/track_forward_Auto3.uasset
+[2018.07.18-22.19.10:643][783]LogFileHelpers: Auto-saving content packages took 0.477
+[2018.07.18-22.19.12:400][848]LogSavePackage: Save=207.54ms
+[2018.07.18-22.19.12:400][848]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_BlueprintEB5E28364E4DD9D4FF22ABB832E28313.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2018.07.18-22.19.12:409][848]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2018.07.18-22.19.14:667][961]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.14:667][961]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.45:155][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a58728, Size=4, Default__SKEL_Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.SKEL_Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.19.45:158][388]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.45:158][388]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.45:160][388]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.45:160][388]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.45:221][388]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.45:221][388]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.51:628][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a58728, Size=4
+[2018.07.18-22.19.51:628][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c804483458, Size=4, Default__SKEL_Worm_Blueprint_C Function /Engine/Transient.REINST_SKEL_Worm_Blueprint_C_736:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.19.51:634][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c804482ec8, Size=4, Default__SKEL_Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.SKEL_Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.19.51:636][696]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.51:636][696]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.51:638][696]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.51:638][696]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.51:676][696]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.51:676][696]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:398][ 66]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:398][ 66]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:415][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:415][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:435][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:435][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:455][ 69]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:456][ 69]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:476][ 70]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:476][ 70]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:517][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:517][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:537][ 73]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:537][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:558][ 74]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:558][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:578][ 75]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:578][ 75]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_31:PersistentLevel.Worm_Blueprint_C_1065
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.19.59:599][ 76]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:619][ 77]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:640][ 78]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:660][ 79]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:681][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:701][ 81]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:722][ 82]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:742][ 83]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:763][ 84]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:783][ 85]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:804][ 86]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:824][ 87]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:845][ 88]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:866][ 89]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:886][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:907][ 91]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:927][ 92]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:947][ 93]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:969][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.19.59:988][ 95]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:009][ 96]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:029][ 97]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:050][ 98]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:070][ 99]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:091][100]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:110][101]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:132][102]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:173][104]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:193][105]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:214][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:234][107]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:255][108]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:275][109]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:296][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:316][111]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:337][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:358][113]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:378][114]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:397][115]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:418][116]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:438][117]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:459][118]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:480][119]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:501][120]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:520][121]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:541][122]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:561][123]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:582][124]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:603][125]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:623][126]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:643][127]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:664][128]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:684][129]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:705][130]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:724][131]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:745][132]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:765][133]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:786][134]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:806][135]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:827][136]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:868][138]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:888][139]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:909][140]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:930][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:950][142]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:970][143]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.00:991][144]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:011][145]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:032][146]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:052][147]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:073][148]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:092][149]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:114][150]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:133][151]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:154][152]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:174][153]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:195][154]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:277][158]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:298][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:321][160]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:341][161]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:363][162]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:488][168]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:508][169]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:529][170]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:548][171]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.01:753][181]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.04:585][319]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.08:103][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.20.08:903][526]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.08:905][526]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.08:905][526]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.20.18:790][  1]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:811][  2]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:831][  3]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:852][  4]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:872][  5]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:894][  6]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:914][  7]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:935][  8]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:954][  9]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.18:976][ 10]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:058][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:100][ 16]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:202][ 21]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:243][ 23]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:326][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:347][ 28]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:450][ 33]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:512][ 36]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:574][ 39]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:637][ 42]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.19:739][ 47]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:056][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.20.27:099][397]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.20.27:129][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c804482ec8, Size=4
+[2018.07.18-22.20.27:129][397]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a59348, Size=4, Default__SKEL_Worm_Blueprint_C Function /Engine/Transient.REINST_SKEL_Worm_Blueprint_C_740:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.20.27:179][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7f3527100, Size=528
+[2018.07.18-22.20.27:179][397]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c843398400, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_746:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.20.27:190][397]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7dd37ae80, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.20.27:197][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:305][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:305][397]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.20.27:545][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a59348, Size=4
+[2018.07.18-22.20.27:545][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c804483458, Size=4
+[2018.07.18-22.20.27:566][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:568][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:568][397]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_1046
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.20.27:569][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:569][397]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.20.27:590][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:592][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:592][397]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.20.27:631][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.20.27:937][399]LogSavePackage: Save=98.03ms
+[2018.07.18-22.20.27:937][399]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint7AD59EB7410C5EFAAE7994B8AD0202F4.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.20.27:946][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.20.54:570][924]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.18-22.23.55:135][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82a4e56b0, Size=4, Default__SKEL_Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.SKEL_Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.23.55:138][759]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.23.55:140][759]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.23.55:140][759]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.23.55:208][759]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.01:748][ 72]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82a4e56b0, Size=4
+[2018.07.18-22.24.01:748][ 72]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c804483c20, Size=4, Default__SKEL_Worm_Blueprint_C Function /Engine/Transient.REINST_SKEL_Worm_Blueprint_C_750:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.24.01:754][ 72]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8044835b8, Size=4, Default__SKEL_Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.SKEL_Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.24.01:756][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.01:758][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.01:758][ 72]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.01:797][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.27:488][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.27:488][293]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.27:490][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.27:492][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.27:494][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.27:494][293]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.27:502][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.45:226][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.45:226][141]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.45:228][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.45:230][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.45:232][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.45:232][141]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.45:241][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.47:962][270]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2018.07.18-22.24.47:962][270]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2018.07.18-22.24.47:964][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.47:964][270]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.47:966][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.47:967][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.47:969][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.47:969][270]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2389
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.24.47:980][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.24.54:753][595]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.24.54:785][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8044835b8, Size=4
+[2018.07.18-22.24.54:785][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79bbc9a78, Size=4, Default__SKEL_Worm_Blueprint_C Function /Engine/Transient.REINST_SKEL_Worm_Blueprint_C_754:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.24.54:836][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7dd37ae80, Size=528
+[2018.07.18-22.24.54:836][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c807a94e00, Size=528, Worm_Blueprint_C_2649 Function /Engine/Transient.REINST_Worm_Blueprint_C_760:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.24.54:842][595]LogBlueprint: Error: [Compiler Worm_Blueprint] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.07.18-22.24.54:849][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7dd37b100, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.24.54:983][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c843398400, Size=528
+[2018.07.18-22.24.54:983][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79bbc9a78, Size=4
+[2018.07.18-22.24.54:983][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c804483c20, Size=4
+[2018.07.18-22.24.55:025][595]LogBlueprint: Warning: [Compiler Worm_Blueprint] [8181.74] Compile of Worm_Blueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 271 ms] (/Game/Blueprints/Worm_Blueprint.Worm_Blueprint)
+[2018.07.18-22.25.26:175][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.25.29:241][335]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a5a1f8, Size=4, Default__SKEL_Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.SKEL_Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.25.51:226][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.25.51:373][394]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.25.51:404][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a5a1f8, Size=4
+[2018.07.18-22.25.51:404][394]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a5a1f8, Size=4, Default__SKEL_Worm_Blueprint_C Function /Engine/Transient.REINST_SKEL_Worm_Blueprint_C_766:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.25.51:454][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7dd37b100, Size=528
+[2018.07.18-22.25.51:454][394]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82a8d8b80, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_772:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.25.51:465][394]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81b811300, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.25.51:472][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:579][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:579][394]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2650
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.25.51:811][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c807a94e00, Size=528
+[2018.07.18-22.25.51:811][394]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a5a1f8, Size=4
+[2018.07.18-22.25.51:831][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:833][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:833][394]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_2650
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.25.51:835][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:835][394]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.25.51:856][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:858][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.25.51:858][394]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.25.51:896][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.27.06:282][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8220b3e00, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.SKEL_ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.32:859][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8220b3e00, Size=4
+[2018.07.18-22.27.32:860][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81668c340, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_SKEL_ChrisCraft_Blueprint_C_776:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.32:872][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81668d4e0, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.SKEL_ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.33:562][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.18-22.27.36:685][ 94]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81668d4e0, Size=4
+[2018.07.18-22.27.36:685][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7f30e2a28, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_SKEL_ChrisCraft_Blueprint_C_778:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.36:697][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c801a59ed8, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.SKEL_ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.37:355][ 97]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.18-22.27.49:072][612]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2018.07.18-22.27.49:145][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c801a59ed8, Size=4
+[2018.07.18-22.27.49:145][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81668f2e0, Size=4, Default__SKEL_ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_SKEL_ChrisCraft_Blueprint_C_783:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.49:286][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8108d7040, Size=168
+[2018.07.18-22.27.49:286][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c87307ff40, Size=168, Default__ChrisCraft_Blueprint_C Function /Engine/Transient.REINST_ChrisCraft_Blueprint_C_801:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.49:311][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83ea37880, Size=168, Default__ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.27.49:799][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81668f2e0, Size=4
+[2018.07.18-22.27.49:800][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82a8d8b80, Size=528
+[2018.07.18-22.27.49:800][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7f30e2a28, Size=4
+[2018.07.18-22.27.49:800][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81668c340, Size=4
+[2018.07.18-22.27.49:825][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.27.49:827][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.27.49:827][612]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.27.49:852][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.27.49:854][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.27.49:854][612]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.04:578][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.28.22:007][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.28.22:076][ 27]BlueprintLog: New page: Compile ChrisCraft_Blueprint
+[2018.07.18-22.28.22:261][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83ea37880, Size=168
+[2018.07.18-22.28.22:261][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c87307da80, Size=168, ChrisCraft_Blueprint_C_5790 Function /Engine/Transient.REINST_ChrisCraft_Blueprint_C_824:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.28.22:287][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c872ee9b40, Size=168, Default__ChrisCraft_Blueprint_C Function /Game/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.ChrisCraft_Blueprint_C:ExecuteUbergraph_ChrisCraft_Blueprint
+[2018.07.18-22.28.22:776][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c87307ff40, Size=168
+[2018.07.18-22.28.22:801][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.22:803][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.22:803][ 27]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.22:828][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.22:830][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.22:830][ 27]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.23:312][ 29]LogSavePackage: Save=215.33ms
+[2018.07.18-22.28.23:312][ 29]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/ChrisCraft_Blueprint6FC44F274594930770F8F5894452100F.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset'
+[2018.07.18-22.28.23:322][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/VehicleBP/ChrisCraft/ChrisCraft_Blueprint.uasset
+[2018.07.18-22.28.26:049][172]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.28.26:127][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81b811300, Size=528
+[2018.07.18-22.28.26:127][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81be49580, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_834:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.28.26:139][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c872e8cb80, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.28.26:144][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:249][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:250][172]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.26:476][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c87307da80, Size=168
+[2018.07.18-22.28.26:496][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:497][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:497][172]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3340
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.26:499][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:499][172]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.26:542][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:544][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.28.26:544][172]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.28.28:286][256]LogSavePackage: Save=102.04ms
+[2018.07.18-22.28.28:286][256]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint01A718E343726E6D6E65C2A30F3A4B96.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.28.28:295][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.28.29:650][323]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.28.29:679][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.29:679][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.28.29:679][323]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:28:29 PM)
+[2018.07.18-22.28.29:680][323]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.28.29:682][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2018.07.18-22.28.29:683][323]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.28.29:683][323]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.07.18-22.28.29:683][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.003417s)
+[2018.07.18-22.28.29:704][323]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81be49580, Size=528
+[2018.07.18-22.28.29:709][323]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.28.29:722][323]LogInit: FAudioDevice initialized.
+[2018.07.18-22.28.29:753][323]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.28.29:757][323]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.28.29:757][323]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.28.29
+[2018.07.18-22.28.29:757][323]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.28.29:758][323]LogWorld: Bringing up level for play took: 0.001476
+[2018.07.18-22.28.29:758][323]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.28.29:777][323]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map -0.07
+[2018.07.18-22.28.29:778][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.33:533][477]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.28.36:442][596]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.28.37:077][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.37:116][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.48:849][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.28.48:874][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.48:875][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.28.48:875][277]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:28:48 PM)
+[2018.07.18-22.28.48:875][277]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.28.48:877][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2018.07.18-22.28.48:877][277]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.28.48:878][277]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.07.18-22.28.48:878][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002629s)
+[2018.07.18-22.28.48:902][277]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.28.48:913][277]LogInit: FAudioDevice initialized.
+[2018.07.18-22.28.48:985][277]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.28.48:989][277]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.28.48:989][277]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.28.48
+[2018.07.18-22.28.48:989][277]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.28.48:990][277]LogWorld: Bringing up level for play took: 0.001598
+[2018.07.18-22.28.48:990][277]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.28.48:990][277]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.18-22.28.49:012][277]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map -0.836
+[2018.07.18-22.28.49:012][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.49:070][277]LogRenderer: Reallocating scene render targets to support 1024x672 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-22.28.53:661][431]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.28.57:244][550]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.28.58:499][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.28.58:521][592]LogSlate: Window 'WaterWiggler Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-22.28.58:554][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.29.37:271][887]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.41:917][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.41:918][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.41:918][112]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.41:920][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.41:922][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.41:922][112]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.41:929][112]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:521][576]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.29.51:606][576]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c872e8cb80, Size=528
+[2018.07.18-22.29.51:606][576]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c85378e700, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_844:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.29.51:618][576]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c853669a80, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.29.51:623][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:727][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:727][576]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.51:968][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:970][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:970][576]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3471
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.51:972][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.51:972][576]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.52:017][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.52:019][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.52:019][576]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.29.52:057][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.29.52:335][577]LogSavePackage: Save=100.45ms
+[2018.07.18-22.29.52:335][577]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint5A6F2923472A9334484BB9BB3BA407DE.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.29.52:344][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.29.54:280][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.29.54:305][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.29.54:305][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.29.54:305][665]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:29:54 PM)
+[2018.07.18-22.29.54:305][665]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.29.54:308][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002527s)
+[2018.07.18-22.29.54:309][665]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.29.54:309][665]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.07.18-22.29.54:309][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.003489s)
+[2018.07.18-22.29.54:331][665]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c85378e700, Size=528
+[2018.07.18-22.29.54:335][665]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.29.54:346][665]LogInit: FAudioDevice initialized.
+[2018.07.18-22.29.54:378][665]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.29.54:381][665]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.29.54:381][665]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.29.54
+[2018.07.18-22.29.54:381][665]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.29.54:382][665]LogWorld: Bringing up level for play took: 0.001518
+[2018.07.18-22.29.54:382][665]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.29.54:402][665]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.554
+[2018.07.18-22.29.54:402][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.29.58:170][819]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.01:057][938]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.04:803][ 93]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.07:715][213]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.11:466][368]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.14:380][488]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.15:557][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.30.15:594][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.30.33:675][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.30.43:809][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:811][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:811][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:812][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:814][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:814][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:816][936]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.07.18-22.30.43:816][936]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.07.18-22.30.43:817][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:819][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:819][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:820][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:822][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:822][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:823][936]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.07.18-22.30.43:823][936]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.07.18-22.30.43:824][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:826][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:826][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:827][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:829][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:829][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:831][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:833][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:833][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:834][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:836][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.43:836][936]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.43:872][936]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:333][ 53]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.30.46:415][ 53]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c853669a80, Size=528
+[2018.07.18-22.30.46:415][ 53]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82e16e700, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_854:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.30.46:427][ 53]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7ac8a8900, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.30.46:433][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:536][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:536][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.46:780][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:782][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:782][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3572
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.46:783][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:783][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.46:805][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:806][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.46:806][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.30.47:045][ 53]LogSavePackage: Save=101.56ms
+[2018.07.18-22.30.47:045][ 53]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint763E26F54C0C6E70B80D12BDA2DA06E5.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.30.47:054][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.30.47:094][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.30.48:373][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.30.48:398][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.30.48:398][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.30.48:399][109]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:30:48 PM)
+[2018.07.18-22.30.48:399][109]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.30.48:401][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001923s)
+[2018.07.18-22.30.48:401][109]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.30.48:401][109]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.07.18-22.30.48:402][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002857s)
+[2018.07.18-22.30.48:422][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82e16e700, Size=528
+[2018.07.18-22.30.48:426][109]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.30.48:437][109]LogInit: FAudioDevice initialized.
+[2018.07.18-22.30.48:473][109]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.30.48:477][109]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.30.48:477][109]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.30.48
+[2018.07.18-22.30.48:477][109]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.30.48:478][109]LogWorld: Bringing up level for play took: 0.001511
+[2018.07.18-22.30.48:478][109]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.30.48:498][109]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.65
+[2018.07.18-22.30.48:498][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.30.52:288][263]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.55:195][382]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.30.56:048][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.30.56:088][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.31.42:872][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.42:872][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.42:873][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.42:875][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.42:877][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.42:877][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.42:885][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:153][200]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.31.50:232][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7ac8a8900, Size=528
+[2018.07.18-22.31.50:232][200]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c821524180, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_864:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.31.50:243][200]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8007da200, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.31.50:249][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:354][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:354][200]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.50:597][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:599][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:599][200]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3793
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.50:600][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:600][200]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.50:621][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:623][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:623][200]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.31.50:662][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.31.50:956][201]LogSavePackage: Save=100.62ms
+[2018.07.18-22.31.50:956][201]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint390564A54827403863C48BA856A35028.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.31.50:965][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.31.52:456][268]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.31.52:482][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.31.52:482][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.31.52:482][268]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:31:52 PM)
+[2018.07.18-22.31.52:482][268]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.31.52:484][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001905s)
+[2018.07.18-22.31.52:485][268]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.31.52:485][268]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.07.18-22.31.52:485][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002808s)
+[2018.07.18-22.31.52:507][268]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c821524180, Size=528
+[2018.07.18-22.31.52:511][268]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.31.52:522][268]LogInit: FAudioDevice initialized.
+[2018.07.18-22.31.52:556][268]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.31.52:559][268]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.31.52:560][268]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.31.52
+[2018.07.18-22.31.52:560][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.31.52:560][268]LogWorld: Bringing up level for play took: 0.001514
+[2018.07.18-22.31.52:560][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.31.52:580][268]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.733
+[2018.07.18-22.31.52:580][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.31.56:330][422]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.31.59:224][541]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.02:969][696]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.05:874][816]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.09:618][971]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.12:537][ 91]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.15:406][210]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.18:289][329]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.22:022][484]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.23:802][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.23:839][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.36:642][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.36:644][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.36:644][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.36:645][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.36:647][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.36:647][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.36:655][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.38:671][257]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.32.38:755][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8007da200, Size=528
+[2018.07.18-22.32.38:755][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8557ff380, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_874:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.32.38:767][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7f34e7600, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.32.38:772][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.38:877][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.38:877][257]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.39:120][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.39:122][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.39:122][257]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3894
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.39:123][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.39:123][257]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.39:144][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.39:146][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.39:146][257]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.39:387][257]LogSavePackage: Save=100.73ms
+[2018.07.18-22.32.39:387][257]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint02AE87BF437A2E542541609A1D733A51.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.32.39:396][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.32.39:437][257]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.40:711][313]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.32.40:736][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.40:737][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.32.40:737][313]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:32:40 PM)
+[2018.07.18-22.32.40:737][313]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.32.40:739][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2018.07.18-22.32.40:739][313]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.32.40:740][313]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.07.18-22.32.40:740][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002646s)
+[2018.07.18-22.32.40:762][313]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8557ff380, Size=528
+[2018.07.18-22.32.40:766][313]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.32.40:777][313]LogInit: FAudioDevice initialized.
+[2018.07.18-22.32.40:813][313]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.32.40:816][313]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.32.40:817][313]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.32.40
+[2018.07.18-22.32.40:817][313]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.32.40:817][313]LogWorld: Bringing up level for play took: 0.001509
+[2018.07.18-22.32.40:818][313]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.32.40:837][313]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.99
+[2018.07.18-22.32.40:837][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.44:609][467]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.47:512][586]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.32.49:232][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.49:269][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.54:066][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.54:068][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.54:068][880]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.54:070][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.54:071][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.54:071][880]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.54:080][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:018][926]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.32.55:097][926]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7f34e7600, Size=528
+[2018.07.18-22.32.55:097][926]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c843da5d00, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_884:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.32.55:109][926]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82e16dd00, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.32.55:114][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:218][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:219][926]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.55:463][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:464][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:465][926]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_3995
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.55:466][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:466][926]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.55:487][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:489][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:489][926]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.32.55:530][926]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.32.55:910][933]LogSavePackage: Save=101.48ms
+[2018.07.18-22.32.55:910][933]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint857628F6470A193D5B377F9B7CF0D047.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.32.55:918][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.32.56:867][976]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.32.56:892][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.32.56:893][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.32.56:893][976]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:32:56 PM)
+[2018.07.18-22.32.56:893][976]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.32.56:895][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002030s)
+[2018.07.18-22.32.56:895][976]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.32.56:896][976]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.07.18-22.32.56:896][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002900s)
+[2018.07.18-22.32.56:917][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c843da5d00, Size=528
+[2018.07.18-22.32.56:921][976]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.32.56:932][976]LogInit: FAudioDevice initialized.
+[2018.07.18-22.32.56:969][976]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.32.56:972][976]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.32.56:972][976]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.32.56
+[2018.07.18-22.32.56:973][976]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.32.56:973][976]LogWorld: Bringing up level for play took: 0.001483
+[2018.07.18-22.32.56:973][976]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.32.56:993][976]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map -0.854
+[2018.07.18-22.32.56:994][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.33.00:747][130]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.03:639][249]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.07:376][404]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.10:288][524]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.11:593][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.33.11:649][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.33.12:076][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.33.16:373][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.16:373][795]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.16:375][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.16:376][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.16:378][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.16:378][795]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.16:386][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.17:601][854]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.33.17:680][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82e16dd00, Size=528
+[2018.07.18-22.33.17:681][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c816d9d580, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_894:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.33.17:692][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81be4a200, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.33.17:697][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.17:804][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.17:804][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.18:049][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:051][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:051][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4096
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.18:052][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:053][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.18:074][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:076][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:076][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.33.18:117][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.33.18:870][877]LogSavePackage: Save=101.65ms
+[2018.07.18-22.33.18:870][877]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_BlueprintE98097A94330F13851066F8B475E9CB5.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.33.18:879][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.33.20:269][938]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.33.20:295][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.33.20:295][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.33.20:296][938]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:33:20 PM)
+[2018.07.18-22.33.20:296][938]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.33.20:298][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001959s)
+[2018.07.18-22.33.20:298][938]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.33.20:298][938]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.07.18-22.33.20:298][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002793s)
+[2018.07.18-22.33.20:324][938]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c816d9d580, Size=528
+[2018.07.18-22.33.20:328][938]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.33.20:339][938]LogInit: FAudioDevice initialized.
+[2018.07.18-22.33.20:371][938]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.33.20:374][938]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.33.20:374][938]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.33.20
+[2018.07.18-22.33.20:375][938]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.33.20:375][938]LogWorld: Bringing up level for play took: 0.001520
+[2018.07.18-22.33.20:375][938]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.33.20:395][938]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map 0.548
+[2018.07.18-22.33.20:395][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.33.24:150][ 92]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.27:048][211]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.30:798][366]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.33:705][486]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.37:441][641]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.40:353][761]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.43:218][880]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.46:092][999]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.49:826][154]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.52:717][273]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.33.56:456][428]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.00:197][583]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.03:106][703]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.06:018][823]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.08:888][942]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.11:766][ 61]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.15:495][216]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.19:224][371]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.22:101][490]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.25:845][645]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.28:712][764]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.34.29:244][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.34.29:301][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.34.31:119][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-22.35.28:645][655]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.28:646][655]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.28:647][655]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.31:710][755]LogSavePackage: Save=91.21ms
+[2018.07.18-22.35.31:710][755]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_Blueprint34F699DE4A313108F2041686A0F71AF9.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.35.31:718][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.35.33:068][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.35.33:094][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.33:094][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.35.33:094][813]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:35:33 PM)
+[2018.07.18-22.35.33:094][813]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.35.33:096][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001839s)
+[2018.07.18-22.35.33:097][813]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.35.33:097][813]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.07.18-22.35.33:097][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002738s)
+[2018.07.18-22.35.33:121][813]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.35.33:135][813]LogInit: FAudioDevice initialized.
+[2018.07.18-22.35.33:172][813]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.35.33:175][813]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.35.33:175][813]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.35.33
+[2018.07.18-22.35.33:176][813]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.35.33:176][813]LogWorld: Bringing up level for play took: 0.001531
+[2018.07.18-22.35.33:176][813]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.35.33:196][813]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map -0.651
+[2018.07.18-22.35.33:196][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.37:008][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.37:045][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.40:930][155]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.40:932][155]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.40:932][155]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.47:952][449]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.47:952][449]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.47:955][449]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:334][499]BlueprintLog: New page: Compile Worm_Blueprint
+[2018.07.18-22.35.49:413][499]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81be4a200, Size=528
+[2018.07.18-22.35.49:413][499]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c811e44b80, Size=528, Default__Worm_Blueprint_C Function /Engine/Transient.REINST_Worm_Blueprint_C_904:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.35.49:424][499]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8017f1300, Size=528, Default__Worm_Blueprint_C Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:ExecuteUbergraph_Worm_Blueprint
+[2018.07.18-22.35.49:430][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:533][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:533][499]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.49:777][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:779][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:779][499]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4197
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.49:780][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:780][499]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4308
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.49:801][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:804][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.49:804][499]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Worm_Blueprint_C /Engine/Transient.World_4:PersistentLevel.Worm_Blueprint_C_4308
+	Function /Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript:008D
+[2018.07.18-22.35.49:844][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Blueprint.Worm_Blueprint_C:UserConstructionScript'!
+[2018.07.18-22.35.50:169][502]LogSavePackage: Save=101.29ms
+[2018.07.18-22.35.50:169][502]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Worm_BlueprintB84FE9C14D907362B2609EAEDCA037BA.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset'
+[2018.07.18-22.35.50:177][502]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Content/Blueprints/Worm_Blueprint.uasset
+[2018.07.18-22.35.51:352][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-22.35.51:377][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.51:377][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-22.35.51:377][555]PIE: New page: PIE session: defined_map (Jul 18, 2018, 2:35:51 PM)
+[2018.07.18-22.35.51:377][555]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_defined_map
+[2018.07.18-22.35.51:379][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2018.07.18-22.35.51:380][555]LogAIModule: Creating AISystem for world defined_map
+[2018.07.18-22.35.51:380][555]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.07.18-22.35.51:380][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/defined_map.defined_map to /Game/Scenes/UEDPIE_0_defined_map.defined_map (0.002743s)
+[2018.07.18-22.35.51:403][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c811e44b80, Size=528
+[2018.07.18-22.35.51:407][555]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-22.35.51:421][555]LogInit: FAudioDevice initialized.
+[2018.07.18-22.35.51:456][555]LogLoad: Game class is 'GM_wiggler_definedTrack_C'
+[2018.07.18-22.35.51:459][555]LogVehicles: Warning: Cannot create vehicle for /Game/Scenes/UEDPIE_0_defined_map.defined_map:PersistentLevel.ChrisCraft_Blueprint_158.SimpleWheeledVehicleMovement. UpdatedComponent is not a PrimitiveComponent.
+[2018.07.18-22.35.51:459][555]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_defined_map.defined_map up for play (max tick rate 60) at 2018.07.18-18.35.51
+[2018.07.18-22.35.51:460][555]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.35.51:460][555]LogWorld: Bringing up level for play took: 0.001516
+[2018.07.18-22.35.51:460][555]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/Worm_Controller.Worm_Controller_C:UserConstructionScript'!
+[2018.07.18-22.35.51:480][555]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_defined_map -0.367
+[2018.07.18-22.35.51:480][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.35.55:247][709]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.35.58:135][828]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.01:887][983]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.04:794][103]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.08:538][258]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.11:455][378]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.14:323][497]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.17:198][616]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.20:944][771]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.23:838][890]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.27:588][ 45]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.31:342][200]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.34:235][320]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.37:149][440]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.40:014][559]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.42:924][678]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.46:697][833]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.50:461][988]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.53:372][107]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.36.57:142][262]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.37.00:053][381]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.37.02:985][501]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.37.05:917][621]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.37.08:822][740]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
+[2018.07.18-22.37.11:619][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+[2018.07.18-22.37.11:660][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
