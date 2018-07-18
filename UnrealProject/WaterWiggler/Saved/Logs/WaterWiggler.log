@@ -24771,6 +24771,7 @@ Make sure 'track_BP_C' has been compiled for  Choose Timeline
 [2018.07.18-22.37.08:822][740]LogScriptCore: Warning: Script Msg: Attempted to swap elements [0] and [-1] in array trackList. Available index range: [0 25)!
 [2018.07.18-22.37.11:619][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
 [2018.07.18-22.37.11:660][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/defined_map.defined_map:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map' with GeneratedClass '/Game/Scenes/defined_map.defined_map_C' with ClassGeneratedBy '/Game/Scenes/defined_map.defined_map:PersistentLevel.defined_map'
+<<<<<<< HEAD
 [2018.07.18-22.38.09:081][615]LogSavePackage: Save=133.06ms
 [2018.07.18-22.38.09:081][615]LogSavePackage: Moving '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/defined_map_Auto41DAB48E54A314C7759DEA290C182F6F4.tmp' to '../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/defined_map_Auto4.umap'
 [2018.07.18-22.38.09:085][615]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/camper/Documents/GitHub/Wiggler/UnrealProject/WaterWiggler/Saved/Autosaves/Game/Scenes/defined_map_Auto4.umap
@@ -25514,3 +25515,5 @@ Make sure 'track_BP_C' has been compiled for  Choose Timeline
 [2018.07.18-22.53.52:027][375]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.07.18-22.53.52:033][375]LogExit: Exiting.
 [2018.07.18-22.53.52:053][375]Log file closed, 07/18/18 18:53:52
+=======
+>>>>>>> master
