@@ -1,0 +1,7 @@
+FileVersion:2
+Type:Static
+Guid:EEB93676-4D9A-C0A4-2423-6E855070296D
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/GameModes/GM_wiggler_definedTrack.GM_wiggler_definedTrack
+/Game/Blueprints/GameModes/GM_wiggler_endless.GM_wiggler_endless
