@@ -1,2 +1,2 @@
 # Wiggler
-Person project, water skiing worm
+Personal project, water skiing worm
